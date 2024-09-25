@@ -22,13 +22,22 @@ export const getBrands = async (): Promise<string[]> => {
 export const getBrand = async (slug: string): Promise<any> => {
   const filePath = path.join(config.inputFolderPath, `${slug}.json`);
   const data = await fs.readFile(filePath, { encoding: "utf8" });
+  const stats = await fs.stat(filePath)
+
   const parsedData = JSON.parse(data);
   parsedData.slug = slug;
 
   const { error, value } = brandSchema.validate(parsedData, { convert: true });
 
+  const createdAt = parseInt(String(stats.birthtimeMs))
+  const updatedAt = parseInt(String(stats.mtimeMs))
+
   if (error) {
     throw error;
   }
-  return value;
+  return {
+    ...value,
+    createdAt,
+    updatedAt
+  };
 };
