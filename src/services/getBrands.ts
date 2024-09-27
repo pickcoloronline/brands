@@ -7,7 +7,9 @@ const brandSchema = Joi.object({
   title: Joi.string().required(),
   slug: Joi.string().required().lowercase(),
   colors: Joi.array()
-    .items(Joi.string().hex().length(6).lowercase())
+    .items(Joi.string().hex().pattern(
+      /^([A-Fa-f0-9]{3}|[A-Fa-f0-9]{4}|[A-Fa-f0-9]{6}|[A-Fa-f0-9]{8})$/
+    ).lowercase())
     .min(1)
     .required(),
   brand_url: Joi.string().uri().allow(null),
