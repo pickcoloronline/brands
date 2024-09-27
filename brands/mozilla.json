@@ -1,0 +1,15 @@
+{
+  "title": "Mozilla",
+  "slug": "mozilla",
+  "colors": [
+    "000000",
+    "FFFFFF",
+    "00FFFF",
+    "54FFBD",
+    "FFF44F",
+    "FF4F5E",
+    "6E008B"
+  ],
+  "brand_url": "http://www.mozilla.org/",
+  "source_url": "http://www.mozilla.org/styleguide/identity/mozilla/color/"
+}

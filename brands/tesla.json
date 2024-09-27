@@ -1,0 +1,14 @@
+{
+  "title": "Tesla",
+  "slug": "tesla",
+  "colors": [
+    "FFFFFF",
+    "000000",
+    "E31937",
+    "C9CBCC",
+    "AEB0B2",
+    "717074"
+  ],
+  "brand_url": "http://www.teslamotors.com/",
+  "source_url": "https://www.chargerlink.com/TeslaGuidelines.pdf"
+}

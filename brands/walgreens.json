@@ -1,0 +1,13 @@
+{
+  "title": "Walgreens",
+  "slug": "walgreens",
+  "colors": [
+    "E31837",
+    "F37520",
+    "489CD4",
+    "2774A6",
+    "35393D"
+  ],
+  "brand_url": "http://www.walgreens.com/",
+  "source_url": "http://developer.walgreens.com/sites/default/files/API_IntegrationMarketingStyleGuide_101513.pdf"
+}

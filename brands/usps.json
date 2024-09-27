@@ -1,0 +1,11 @@
+{
+  "title": "USPS",
+  "slug": "usps",
+  "colors": [
+    "333366",
+    "000000",
+    "FFFFFF"
+  ],
+  "brand_url": "http://www.usps.com/",
+  "source_url": "http://www.usps.com/styleguide/design/color-palette.htm"
+}

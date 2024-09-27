@@ -1,0 +1,11 @@
+{
+  "title": "Uber",
+  "slug": "uber",
+  "colors": [
+    "09091A",
+    "C0C0C8",
+    "1FBAD6"
+  ],
+  "brand_url": "http://www.uber.com",
+  "source_url": "https://developer.uber.com/docs/riders/guides/design-guidelines"
+}

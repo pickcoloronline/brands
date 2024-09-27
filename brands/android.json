@@ -1,6 +1,9 @@
 {
   "title": "Android",
-  "colors": ["a4c639"],
-  "brand_url": "https://android.com/",
-  "source_url": null
+  "slug": "android",
+  "colors": [
+    "3DDC84"
+  ],
+  "brand_url": "http://android.com",
+  "source_url": "https://developer.android.com/distribute/marketing-tools/brand-guidelines"
 }

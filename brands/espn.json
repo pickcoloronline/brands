@@ -1,0 +1,9 @@
+{
+  "title": "ESPN",
+  "slug": "espn",
+  "colors": [
+    "FF0033"
+  ],
+  "brand_url": "https://www.espn.com/",
+  "source_url": "https://a.espncdn.com/prod/assets/apis/pdfs/espn_api_branding_guide_10-12-11.pdf"
+}

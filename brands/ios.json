@@ -1,0 +1,16 @@
+{
+  "title": "iOS",
+  "slug": "ios",
+  "colors": [
+    "5FC9F8",
+    "FECB2E",
+    "FD9426",
+    "FC3158",
+    "147EFB",
+    "53D769",
+    "FC3D39",
+    "8E8E93"
+  ],
+  "brand_url": "http://www.apple.com/ios/",
+  "source_url": "http://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/ColorImagesText.html"
+}

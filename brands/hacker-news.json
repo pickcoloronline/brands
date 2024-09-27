@@ -1,0 +1,9 @@
+{
+  "title": "Hacker News",
+  "slug": "hacker-news",
+  "colors": [
+    "FF4000"
+  ],
+  "brand_url": "http://news.ycombinator.com/",
+  "source_url": "http://www.ycombinator.com/press/#assets"
+}

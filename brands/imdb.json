@@ -1,0 +1,11 @@
+{
+  "title": "IMDb",
+  "slug": "imdb",
+  "colors": [
+    "F5C518",
+    "FFFFFF",
+    "000000"
+  ],
+  "brand_url": "https://www.imdb.com/",
+  "source_url": "https://brand.imdb.com/imdb"
+}

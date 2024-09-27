@@ -1,0 +1,17 @@
+{
+  "title": "Zillow",
+  "slug": "zillow",
+  "colors": [
+    "006AFF",
+    "E0F2FF",
+    "A6E5FF",
+    "0D4599",
+    "001751",
+    "C88205",
+    "F2A619",
+    "FFD237",
+    "FFDC69"
+  ],
+  "brand_url": "http://www.zillow.com/",
+  "source_url": "https://wp-tid.zillowstatic.com/bedrock/app/uploads/sites/2/2021/02/Zillow-3D-Home-Brand-Guidelines-2021-16e654.pdf"
+}

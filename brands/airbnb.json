@@ -1,6 +1,13 @@
 {
   "title": "Airbnb",
-  "colors": ["FF5A5F"],
-  "brand_url": "https://www.airbnb.com/",
-  "source_url": "https://airbnb.design/building-a-visual-language/"
+  "slug": "airbnb",
+  "colors": [
+    "FF5A5F",
+    "00A699",
+    "FC642D",
+    "484848",
+    "767676"
+  ],
+  "brand_url": "http://www.airbnb.com/",
+  "source_url": "http://airbnb.design/building-a-visual-language/"
 }

@@ -1,0 +1,11 @@
+{
+  "title": "Discogs",
+  "slug": "discogs",
+  "colors": [
+    "000000",
+    "333333",
+    "F5DF2E"
+  ],
+  "brand_url": "http://www.discogs.com/",
+  "source_url": "http://www.discogs.com/brand"
+}

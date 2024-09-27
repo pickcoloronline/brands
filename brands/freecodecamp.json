@@ -1,0 +1,16 @@
+{
+  "title": "FreeCodeCamp",
+  "slug": "freecodecamp",
+  "colors": [
+    "DBB8FF",
+    "F1BE32",
+    "99C9FF",
+    "ACD157",
+    "5A01A7",
+    "4D3800",
+    "002EAD",
+    "00471B"
+  ],
+  "brand_url": "http://www.freecodecamp.com/",
+  "source_url": "https://design-style-guide.freecodecamp.org/"
+}

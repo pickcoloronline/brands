@@ -1,0 +1,9 @@
+{
+  "title": "LastFM",
+  "slug": "lastfm",
+  "colors": [
+    "D51007"
+  ],
+  "brand_url": "http://www.last.fm/",
+  "source_url": "http://www.last.fm/about/resources"
+}

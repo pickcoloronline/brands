@@ -1,0 +1,10 @@
+{
+  "title": "Steam",
+  "slug": "steam",
+  "colors": [
+    "00ADEE",
+    "000000"
+  ],
+  "brand_url": "http://steampowered.com/",
+  "source_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/Steam_Guidelines_060222.pdf"
+}
