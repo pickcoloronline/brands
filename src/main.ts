@@ -24,7 +24,7 @@ const init = async () => {
     };
   }
 
-  console.log("Writing brands.json", brandExcerpt);
+  console.log("Writing brands.json");
   writeFile(
     config.outputFolderPath + "/" + "brands.json",
     JSON.stringify(brandExcerpt)
