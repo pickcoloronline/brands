@@ -4,7 +4,6 @@ import path from "path";
 export const createDir = async (dirPath: string): Promise<void> => {
   try {
     await fs.mkdir(dirPath, { recursive: true });
-    console.log(`Directory created or already exists: ${dirPath}`);
   } catch (error) {
     console.error(`Error creating directory: ${error}`);
     throw error;
@@ -22,7 +21,6 @@ export const writeFile = async (
 
   try {
     await fs.writeFile(filePath, data, "utf8");
-    console.log(`File written successfully to ${filePath}`);
   } catch (error) {
     console.error(`Error writing file: ${error}`);
     throw error;
