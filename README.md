@@ -1,8 +1,14 @@
 # Brand Colors Collection
 
-This repository is dedicated to collecting all data of brands and products around the world and offering them as a free static API here.
+This repository is dedicated to collecting the color data of brands and products around the world and offering them as a free static API here.
 
-You can view the brands here: http://pickcoloronline.com/brands
+- API: https://api.brandcolor.dev/
+- Web: http://pickcoloronline.com/brands
+
+# API
+
+- Get all: https://api.brandcolor.dev/brands.json
+- Get brand: https://api.brandcolor.dev/brand/:slug.json Example: https://api.brandcolor.dev/brands/airbnb.json
 
 # How to Contribute?
 
