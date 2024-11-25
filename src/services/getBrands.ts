@@ -12,8 +12,8 @@ const brandSchema = Joi.object({
     ).lowercase())
     .min(1)
     .required(),
-  brand_url: Joi.string().uri().allow(null),
-  source_url: Joi.string().uri().allow(null),
+  brandUrl: Joi.string().uri().allow(null),
+  sourceUrl: Joi.string().uri().allow(null),
 });
 
 export const getBrands = async (): Promise<string[]> => {
