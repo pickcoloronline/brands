@@ -5,7 +5,7 @@ import path from "path";
 
 const brandSchema = Joi.object({
   title: Joi.string().required(),
-  slug: Joi.string().required().lowercase(),
+  slug: Joi.string().required().lowercase().pattern(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),
   colors: Joi.array()
     .items(Joi.string().hex().pattern(
       /^([A-Fa-f0-9]{3}|[A-Fa-f0-9]{4}|[A-Fa-f0-9]{6}|[A-Fa-f0-9]{8})$/
@@ -35,7 +35,7 @@ export const getBrand = async (slug: string): Promise<any> => {
   const updatedAt = parseInt(String(stats.mtimeMs))
 
   if (error) {
-    throw error;
+    console.error(`Error validating ${slug}: ${error.message}\nBrand ${slug} will be skipped.`);
   }
   return {
     ...value,
