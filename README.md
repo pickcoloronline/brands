@@ -19,8 +19,8 @@ This repository is dedicated to collecting the color data of brands and products
 {
   "title": "Airbnb",
   "colors": ["FF5A5F", "FF00FE"],
-  "brand_url": "https://www.airbnb.com/",
-  "source_url": "https://airbnb.design/building-a-visual-language/"
+  "brandUrl": "https://www.airbnb.com/",
+  "sourceUrl": "https://airbnb.design/building-a-visual-language/"
 }
 ```
 
