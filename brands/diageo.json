@@ -4,6 +4,6 @@
   "colors": [
     "C80651"
   ],
-  "brand_url": "http://diageo.com",
-  "source_url": "https://brandfolder.com/diageo"
+  "brandUrl": "http://diageo.com",
+  "sourceUrl": "https://brandfolder.com/diageo"
 }

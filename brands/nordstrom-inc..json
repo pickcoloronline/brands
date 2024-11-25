@@ -4,6 +4,6 @@
   "colors": [
     "000000"
   ],
-  "brand_url": "http://nordstrom.com",
-  "source_url": null
+  "brandUrl": "http://nordstrom.com",
+  "sourceUrl": null
 }

@@ -4,6 +4,6 @@
   "colors": [
     "CC342D"
   ],
-  "brand_url": "http://www.ruby-lang.org/",
-  "source_url": "http://www.ruby-lang.org/en/about/logo/"
+  "brandUrl": "http://www.ruby-lang.org/",
+  "sourceUrl": "http://www.ruby-lang.org/en/about/logo/"
 }

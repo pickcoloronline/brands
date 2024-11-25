@@ -4,6 +4,6 @@
   "colors": [
     "000000"
   ],
-  "brand_url": "http://jacobs.com",
-  "source_url": "https://brand.jacobs.com/jacobs"
+  "brandUrl": "http://jacobs.com",
+  "sourceUrl": "https://brand.jacobs.com/jacobs"
 }

@@ -6,6 +6,6 @@
     "000000",
     "F0F0FF"
   ],
-  "brand_url": "http://twitch.tv",
-  "source_url": "http://brand.twitch.tv/brand/"
+  "brandUrl": "http://twitch.tv",
+  "sourceUrl": "http://brand.twitch.tv/brand/"
 }

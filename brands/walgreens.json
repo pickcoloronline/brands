@@ -8,6 +8,6 @@
     "2774A6",
     "35393D"
   ],
-  "brand_url": "http://www.walgreens.com/",
-  "source_url": "http://developer.walgreens.com/sites/default/files/API_IntegrationMarketingStyleGuide_101513.pdf"
+  "brandUrl": "http://www.walgreens.com/",
+  "sourceUrl": "http://developer.walgreens.com/sites/default/files/API_IntegrationMarketingStyleGuide_101513.pdf"
 }

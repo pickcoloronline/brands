@@ -4,6 +4,6 @@
   "colors": [
     "EE0000"
   ],
-  "brand_url": "https://www.redhat.com/en",
-  "source_url": "https://www.redhat.com/en/about/brand/standards"
+  "brandUrl": "https://www.redhat.com/en",
+  "sourceUrl": "https://www.redhat.com/en/about/brand/standards"
 }

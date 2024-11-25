@@ -4,6 +4,6 @@
   "colors": [
     "D51007"
   ],
-  "brand_url": "http://www.last.fm/",
-  "source_url": "http://www.last.fm/about/resources"
+  "brandUrl": "http://www.last.fm/",
+  "sourceUrl": "http://www.last.fm/about/resources"
 }

@@ -6,6 +6,6 @@
     "FFFFFF",
     "000000"
   ],
-  "brand_url": "http://roche.com",
-  "source_url": "https://brandfetch.com/roche.ch?view=library&library=default&collection=colors"
+  "brandUrl": "http://roche.com",
+  "sourceUrl": "https://brandfetch.com/roche.ch?view=library&library=default&collection=colors"
 }

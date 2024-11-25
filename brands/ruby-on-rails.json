@@ -4,6 +4,6 @@
   "colors": [
     "CC0000"
   ],
-  "brand_url": "http://rubyonrails.org/",
-  "source_url": "http://rubyonrails.org/images/rails-logo.svg"
+  "brandUrl": "http://rubyonrails.org/",
+  "sourceUrl": "http://rubyonrails.org/images/rails-logo.svg"
 }

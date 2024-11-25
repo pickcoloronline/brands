@@ -5,6 +5,6 @@
     "000099",
     "CC3333"
   ],
-  "brand_url": "http://tfl.gov.uk/modes/tube/",
-  "source_url": "https://tfl.gov.uk/info-for/open-data-users/design-and-branding"
+  "brandUrl": "http://tfl.gov.uk/modes/tube/",
+  "sourceUrl": "https://tfl.gov.uk/info-for/open-data-users/design-and-branding"
 }

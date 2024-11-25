@@ -13,6 +13,6 @@
     "2ECC71",
     "1ABC9C"
   ],
-  "brand_url": "http://www.justyo.co/",
-  "source_url": "https://yoapp.s3.amazonaws.com/yo/YoBrandingGuidelines.pdf"
+  "brandUrl": "http://www.justyo.co/",
+  "sourceUrl": "https://yoapp.s3.amazonaws.com/yo/YoBrandingGuidelines.pdf"
 }

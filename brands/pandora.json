@@ -5,6 +5,6 @@
     "FFFFFF",
     "000000"
   ],
-  "brand_url": "https://us.pandora.net/",
-  "source_url": "https://developer.pandora.com/docs/developer-resources/brand-assets/"
+  "brandUrl": "https://us.pandora.net/",
+  "sourceUrl": "https://developer.pandora.com/docs/developer-resources/brand-assets/"
 }

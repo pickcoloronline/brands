@@ -4,6 +4,6 @@
   "colors": [
     "000000"
   ],
-  "brand_url": "http://morganstanley.com",
-  "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/assets/pdfs/FWUXDS_ColorChartsandAccessibility.pdf"
+  "brandUrl": "http://morganstanley.com",
+  "sourceUrl": "https://www.morganstanley.com/content/dam/msdotcom/en/assets/pdfs/FWUXDS_ColorChartsandAccessibility.pdf"
 }

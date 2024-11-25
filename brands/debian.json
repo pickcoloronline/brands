@@ -4,6 +4,6 @@
   "colors": [
     "A80030"
   ],
-  "brand_url": "http://www.debian.org/",
-  "source_url": "http://www.debian.org/logos/"
+  "brandUrl": "http://www.debian.org/",
+  "sourceUrl": "http://www.debian.org/logos/"
 }

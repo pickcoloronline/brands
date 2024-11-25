@@ -6,6 +6,6 @@
     "000000",
     "FFFFFF"
   ],
-  "brand_url": "https://ubuntu.com/",
-  "source_url": "https://design.ubuntu.com/brand/colour-palette"
+  "brandUrl": "https://ubuntu.com/",
+  "sourceUrl": "https://design.ubuntu.com/brand/colour-palette"
 }

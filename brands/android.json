@@ -4,6 +4,6 @@
   "colors": [
     "3DDC84"
   ],
-  "brand_url": "http://android.com",
-  "source_url": "https://developer.android.com/distribute/marketing-tools/brand-guidelines"
+  "brandUrl": "http://android.com",
+  "sourceUrl": "https://developer.android.com/distribute/marketing-tools/brand-guidelines"
 }

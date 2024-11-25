@@ -4,6 +4,6 @@
   "colors": [
     "00A98F"
   ],
-  "brand_url": "http://about.me/",
-  "source_url": "http://about.me/assets"
+  "brandUrl": "http://about.me/",
+  "sourceUrl": "http://about.me/assets"
 }

@@ -4,6 +4,6 @@
   "colors": [
     "9999"
   ],
-  "brand_url": "http://www.siemens.com/",
-  "source_url": "http://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg"
+  "brandUrl": "http://www.siemens.com/",
+  "sourceUrl": "http://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg"
 }

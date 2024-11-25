@@ -4,6 +4,6 @@
   "colors": [
     "00C7FD"
   ],
-  "brand_url": "http://intel.com",
-  "source_url": "https://peertje.daanberg.net/drivers/intel/download.intel.com/education/Common/en/Resources/Content_Scripts/Learn/Easy_Steps/Support_Materials/Intel-logo-guidelines.pdf"
+  "brandUrl": "http://intel.com",
+  "sourceUrl": "https://peertje.daanberg.net/drivers/intel/download.intel.com/education/Common/en/Resources/Content_Scripts/Learn/Easy_Steps/Support_Materials/Intel-logo-guidelines.pdf"
 }

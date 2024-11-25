@@ -4,6 +4,6 @@
   "colors": [
     "FF8700"
   ],
-  "brand_url": "http://typo3.org/",
-  "source_url": "http://typo3.org/about/the-brand/style-guide/the-typo3-colors/"
+  "brandUrl": "http://typo3.org/",
+  "sourceUrl": "http://typo3.org/about/the-brand/style-guide/the-typo3-colors/"
 }
