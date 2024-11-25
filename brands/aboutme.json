@@ -1,9 +1,7 @@
 {
   "title": "About.me",
-  "slug": "about.me",
-  "colors": [
-    "00A98F"
-  ],
+  "slug": "aboutme",
+  "colors": ["00A98F"],
   "brandUrl": "http://about.me/",
   "sourceUrl": "http://about.me/assets"
 }

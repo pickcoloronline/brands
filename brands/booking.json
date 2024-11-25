@@ -1,12 +1,7 @@
 {
   "title": "Booking.com",
-  "slug": "booking.com",
-  "colors": [
-    "003A9A",
-    "003B95",
-    "FDB812",
-    "585856"
-  ],
+  "slug": "booking",
+  "colors": ["003A9A", "003B95", "FDB812", "585856"],
   "brandUrl": "http://www.booking.com/",
   "sourceUrl": "https://www.bookingholdings.com/wp-content/uploads/2023/07/BHI_BrandGuidelines_ForMediaRoom.pdf"
 }
