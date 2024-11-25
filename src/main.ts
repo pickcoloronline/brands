@@ -10,6 +10,7 @@ const init = async () => {
   createDir(config.outputFolderPath + "/" + "brands");
 
   const brandExcerpt: any = {};
+  const brandFull: any = {};
 
   for (const brand of brands) {
     const brandData = await getBrand(brand);
@@ -18,6 +19,8 @@ const init = async () => {
       config.outputFolderPath + "/" + "brands" + "/" + brand + ".json",
       JSON.stringify(brandData)
     );
+
+    brandFull[brand] = brandData
 
     brandExcerpt[brand] = {
       title: brandData.title,
@@ -28,6 +31,12 @@ const init = async () => {
   writeFile(
     config.outputFolderPath + "/" + "brands.json",
     JSON.stringify(brandExcerpt)
+  );
+
+  console.log("Writing export.json");
+  writeFile(
+    config.outputFolderPath + "/" + "export.json",
+    JSON.stringify(brandFull)
   );
 };
 
