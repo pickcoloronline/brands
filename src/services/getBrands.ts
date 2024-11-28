@@ -36,6 +36,7 @@ export const getBrand = async (slug: string): Promise<any> => {
 
   if (error) {
     console.error(`Error validating ${slug}: ${error.message}\nBrand ${slug} will be skipped.`);
+    throw error;
   }
   return {
     ...value,
