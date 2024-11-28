@@ -1,9 +1,7 @@
 {
-  "title": "Honda Motor Co., Ltd.",
-  "slug": "honda-motor-co.-ltd.",
-  "colors": [
-    "CC0000"
-  ],
+  "title": "Honda Motor",
+  "slug": "honda-motor",
+  "colors": ["CC0000"],
   "brandUrl": "http://honda.com",
   "sourceUrl": "https://cdn.connectsites.net/user_files/f4/downloads/000/058/244/2021%20HPD%20Style%20Guide%20Rev%20B.pdf?1631113262"
 }

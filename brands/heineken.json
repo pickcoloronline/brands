@@ -1,12 +1,7 @@
 {
   "title": "Heineken",
   "slug": "heineken",
-  "colors": [
-    "008200",
-    "205527",
-    "FF2B00",
-    "C3C3C3"
-  ],
-  "brandUrl": "http://www.heineken.com/",
-  "sourceUrl": "https://superfinedesign.net/kcc/files/Heineken_StyleGuide.pdf"
+  "colors": ["13670B", "FF2B00", "BBBCBD"],
+  "brandUrl": "http://heineken.com",
+  "sourceUrl": "https://mojehospoda.heinekenceskarepublika.cz/files/files_soubory/1565246312.pdf"
 }
