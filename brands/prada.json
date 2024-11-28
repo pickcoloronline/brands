@@ -1,9 +1,6 @@
 {
   "title": "Prada",
-  "colors": [
-    "000000",
-    "FFFFFF"
-  ],
+  "colors": ["FFFFFF", "000000"],
   "brandUrl": "http://prada.com",
-  "sourceUrl": null
+  "sourceUrl": "https://issuu.com/lauracerulea/docs/prada_brand_book_paginas"
 }

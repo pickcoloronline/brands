@@ -1,10 +1,6 @@
 {
   "title": "McDonald’s",
-  "colors": [
-    "BD0017",
-    "FFC836",
-    "264F36"
-  ],
+  "colors": ["BD0017", "FFC836", "264F36"],
   "brandUrl": "http://www.mcdonalds.com/",
   "sourceUrl": "https://www.mcdonalds.cz/assets/downloads/mcdelivery_brandbook.pdf"
 }

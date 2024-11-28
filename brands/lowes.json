@@ -1,8 +1,6 @@
 {
   "title": "Lowe's Companies, Inc.",
-  "colors": [
-    "012169"
-  ],
+  "colors": ["012169"],
   "brandUrl": "http://lowes.com",
   "sourceUrl": "https://www.lowes.com/pdf/Lowes_Logo_StyleGuide.pdf"
 }
