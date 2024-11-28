@@ -1,7 +1,9 @@
 {
   "title": "Angi",
-  "slug": "Angi",
-  "colors": ["FF6153", "A03027"],
+  "colors": [
+    "FF6153",
+    "A03027"
+  ],
   "brandUrl": "http://angi.com",
   "sourceUrl": "https://logotyp.us/logo/angi/"
 }

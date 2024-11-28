@@ -1,7 +1,9 @@
 {
   "title": "Fab.com",
-  "slug": "fab",
-  "colors": ["DD0017", "000000"],
+  "colors": [
+    "DD0017",
+    "000000"
+  ],
   "brandUrl": "https://www.fab.com/",
   "sourceUrl": null
 }

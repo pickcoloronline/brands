@@ -1,7 +1,9 @@
 {
   "title": "Caterpillar Inc.",
-  "slug": "caterpillar",
-  "colors": ["FFCB11", "000000"],
+  "colors": [
+    "FFCB11",
+    "000000"
+  ],
   "brandUrl": "http://caterpillar.com",
   "sourceUrl": "https://relayto.com/relayto/cat-brand-book-ck5pgwtfd16g0/YBCE0wDK7"
 }

@@ -1,7 +1,9 @@
 {
   "title": "Great Western Railway (GWR)",
-  "slug": "great-western-railway",
-  "colors": ["05326E", "E50071"],
+  "colors": [
+    "05326E",
+    "E50071"
+  ],
   "brandUrl": "http://www.gwr.com",
   "sourceUrl": "https://www.firstgroupplc.com/~/media/Files/F/Firstgroup-Plc/documents/firstgroup-brand-guidelines-winter-2016-v1.pdf"
 }

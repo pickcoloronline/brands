@@ -1,7 +1,8 @@
 {
   "title": "JPMorgan Chase",
-  "slug": "jpmorgan-chase",
-  "colors": ["000000"],
+  "colors": [
+    "000000"
+  ],
   "brandUrl": "http://jpmorganchase.com",
   "sourceUrl": null
 }

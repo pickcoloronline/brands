@@ -1,7 +1,10 @@
 {
   "title": "Huawei Technologies",
-  "slug": "huawei-technologies",
-  "colors": ["FF0000", "000000", "CE0E2D"],
+  "colors": [
+    "FF0000",
+    "000000",
+    "CE0E2D"
+  ],
   "brandUrl": "http://huawei.com",
   "sourceUrl": "https://www.huawei.ru/upload/_press-center/Huawei-Visual-Identity-Guidelines-V2.0.pdf"
 }

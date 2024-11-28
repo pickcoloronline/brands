@@ -1,7 +1,10 @@
 {
   "title": "Call of Duty: Black Ops 6",
-  "slug": "call-of-duty-black-ops-6",
-  "colors": ["f96800", "000000", "ffffff"],
+  "colors": [
+    "f96800",
+    "000000",
+    "ffffff"
+  ],
   "brandUrl": "https://www.callofduty.com/blackops6",
   "sourceUrl": "https://www.callofduty.com/cdn/brand/BO6_styleguide_sm.pdf"
 }

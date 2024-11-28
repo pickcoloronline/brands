@@ -1,7 +1,8 @@
 {
   "title": "Change.org",
-  "slug": "change",
-  "colors": ["EC2C22"],
+  "colors": [
+    "EC2C22"
+  ],
   "brandUrl": "http://www.change.org/",
   "sourceUrl": "http://www.dropbox.com/sh/zdanrngyfdmkktp/c3v5ccF_ps"
 }

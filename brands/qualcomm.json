@@ -1,7 +1,8 @@
 {
   "title": "Qualcomm Inc.",
-  "slug": "qualcomm",
-  "colors": ["2a2aea"],
+  "colors": [
+    "2a2aea"
+  ],
   "brandUrl": "http://qualcomm.com",
   "sourceUrl": "https://www.qualcomm.com/logos"
 }

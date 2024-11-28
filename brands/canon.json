@@ -1,7 +1,8 @@
 {
   "title": "Canon Inc.",
-  "slug": "canon",
-  "colors": ["CC0000"],
+  "colors": [
+    "CC0000"
+  ],
   "brandUrl": "http://canon.com",
   "sourceUrl": "https://asia.canon/media/download?file=https://cspl-corpweb-site-asia-production.s3.amazonaws.com/media/document/2018/07/12/44700abe333d437d9e94a1fd491e4c19_Canon+Logo+Guidelines+for+Channel+Partners%2C+V5+Sep2017_final.pdf"
 }

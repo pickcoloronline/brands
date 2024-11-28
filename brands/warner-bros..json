@@ -1,7 +1,9 @@
 {
   "title": "Warner Bros.",
-  "slug": "warner-bros",
-  "colors": ["FFC200", "04006C"],
+  "colors": [
+    "FFC200",
+    "04006C"
+  ],
   "brandUrl": "http://warnerbros.com",
   "sourceUrl": "https://brand.wbd.com/"
 }

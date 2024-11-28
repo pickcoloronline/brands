@@ -1,7 +1,10 @@
 {
   "title": "Heineken",
-  "slug": "heineken",
-  "colors": ["13670B", "FF2B00", "BBBCBD"],
+  "colors": [
+    "13670B",
+    "FF2B00",
+    "BBBCBD"
+  ],
   "brandUrl": "http://heineken.com",
   "sourceUrl": "https://mojehospoda.heinekenceskarepublika.cz/files/files_soubory/1565246312.pdf"
 }

@@ -1,7 +1,8 @@
 {
   "title": "Gap Inc.",
-  "slug": "gap",
-  "colors": ["A6BBC8"],
+  "colors": [
+    "A6BBC8"
+  ],
   "brandUrl": "http://gap.com",
   "sourceUrl": null
 }

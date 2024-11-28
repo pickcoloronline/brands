@@ -1,7 +1,9 @@
 {
   "title": "Apple Inc.",
-  "slug": "apple",
-  "colors": ["000000", "555555"],
+  "colors": [
+    "000000",
+    "555555"
+  ],
   "brandUrl": "http://apple.com",
   "sourceUrl": "https://www.apple.com/legal/sales-support/certification/docs/logo_guidelines.pdf"
 }
