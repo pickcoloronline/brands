@@ -1,12 +1,13 @@
 {
   "title": "Walmart",
   "colors": [
-    "041F41",
-    "EB148D",
-    "0071CE",
+    "0053E2",
     "FFFFFF",
-    "FFC220"
+    "FFC220",
+    "A9DDF7",
+    "4DBDF5",
+    "001E60"
   ],
   "brandUrl": "http://www.walmart.com/",
-  "sourceUrl": "https://one.walmart.com/content/dam/px/associate_brand_center/all-company-brand-guidelines/AssociateBrand_VISID_200203.pdf"
+  "sourceUrl": "https://brandcenter.walmart.com/brand/"
 }
