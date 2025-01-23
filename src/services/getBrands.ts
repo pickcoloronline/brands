@@ -37,7 +37,6 @@ function getGitTimestamps(filePath: string) {
       `git log --pretty=format:%ci -- "${filePath}"`,
       { encoding: "utf8" }
     );
-    console.log(`[build] Git log output for ${filePath}:\n${output}`);
 
     // Each line is one commit date in ISO-8601 format
     const lines = output.trim().split("\n").filter(Boolean);
