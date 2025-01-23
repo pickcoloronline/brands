@@ -28,7 +28,7 @@ const brandSchema = Joi.object({
  * Both are returned as numeric timestamps (milliseconds since epoch).
  *
  * @param filePath Absolute or relative path to the file within a Git repository
- * @returns An object with `createdAt` and `updatedAt` timestamps in ms.
+ * @returns An object with `createdAt` and `updatedAt` timestamps in ms, or null if not tracked.
  */
 function getGitTimestamps(filePath: string) {
   try {
@@ -62,40 +62,53 @@ function getGitTimestamps(filePath: string) {
 }
 
 export const getBrands = async (): Promise<string[]> => {
+  console.log("[build] Reading directory to get brand slugs...");
   const files = await fs.readdir(config.inputFolderPath);
-  return files
-    .map((file) => path.basename(file, ".json"))
+  const slugs = files.map((file) => path.basename(file, ".json"));
+  console.log(`[build] Found ${slugs.length} brand file(s).`);
+  return slugs;
 };
 
 export const getBrand = async (slug: string): Promise<any> => {
+  console.log(`[build] Start processing brand: ${slug}`);
   const filePath = path.join(config.inputFolderPath, `${slug}.json`);
+
+  console.log(`[build] Reading file: ${filePath}`);
   const data = await fs.readFile(filePath, { encoding: "utf8" });
 
-  // Fallback: basic file stats (in case Git fails or the file is not tracked)
+  console.log("[build] Gathering fallback file system timestamps...");
   const stats = await fs.stat(filePath);
   let createdAt = parseInt(String(stats.birthtimeMs));
   let updatedAt = parseInt(String(stats.mtimeMs));
 
   // Attempt to get timestamps via Git
+  console.log("[build] Attempting to get Git commit timestamps...");
   const gitTimes = getGitTimestamps(filePath);
-  console.log({ gitTimes });
+
   if (gitTimes) {
+    console.log(
+      `[build] Git timestamps found for ${slug} (createdAt: ${gitTimes.createdAt}, updatedAt: ${gitTimes.updatedAt})`
+    );
     createdAt = gitTimes.createdAt;
     updatedAt = gitTimes.updatedAt;
+  } else {
+    console.log(`[build] No Git timestamps found; using file system stats for ${slug}.`);
   }
 
   const parsedData = JSON.parse(data);
   parsedData.slug = slug;
 
+  console.log("[build] Validating brand data with Joi...");
   const { error, value } = brandSchema.validate(parsedData, { convert: true });
 
   if (error) {
     console.error(
-      `Error validating ${slug}: ${error.message}\nBrand ${slug} will be skipped.`
+      `[build] Error validating ${slug}: ${error.message}\nBrand ${slug} will be skipped.`
     );
     throw error;
   }
 
+  console.log(`[build] Finished processing brand: ${slug}\n`);
   return {
     ...value,
     createdAt,
