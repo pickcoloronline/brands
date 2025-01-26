@@ -1,10 +1,10 @@
 {
   "title": "Spotify",
   "colors": [
-    "1DB954",
-    "191414",
+    "1ED760",
+    "121212",
     "FFFFFF"
   ],
   "brandUrl": "http://www.spotify.com/",
-  "sourceUrl": "http://developer.spotify.com/design/"
+  "sourceUrl": "https://developer.spotify.com/documentation/design#using-our-colors"
 }
