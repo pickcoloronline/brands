@@ -21,6 +21,8 @@ const brandSchema = Joi.object({
     .required(),
   brandUrl: Joi.string().uri().allow(null),
   sourceUrl: Joi.string().uri().allow(null),
+  category: Joi.string(),
+  description: Joi.string()
 });
 
 /**
