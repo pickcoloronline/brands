@@ -6,5 +6,7 @@
     "FFFFFF"
   ],
   "brandUrl": "https://ubuntu.com/",
-  "sourceUrl": "https://design.ubuntu.com/brand/colour-palette"
+  "sourceUrl": "https://design.ubuntu.com/brand/colour-palette",
+  "category": "Open Source Operating Systems",
+  "description": "The Ubuntu brand colors consist of a vibrant orange shade (#E95420), which symbolizes community and collaboration, paired with contrasting shades of black (#000000) and white (#FFFFFF) to create a modern and approachable aesthetic. These colors are derived from Ubuntu's official design guidelines, available to the public on their brand portal."
 }

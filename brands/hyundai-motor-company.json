@@ -5,5 +5,7 @@
     "FFFFFF"
   ],
   "brandUrl": "http://hyundai.com",
-  "sourceUrl": "https://nawrot.hyundai.pl/fileadmin/share/pdf/Hyundai_styleguide_20200915.pdf"
+  "sourceUrl": "https://nawrot.hyundai.pl/fileadmin/share/pdf/Hyundai_styleguide_20200915.pdf",
+  "category": "Automotive",
+  "description": "Hyundai Motor Company is recognized in the automotive industry by its distinctive brand colors: Navy Blue (Hex: #002C5F) and White (Hex: #FFFFFF). These colors are detailed in Hyundai's style guide, available at https://nawrot.hyundai.pl/fileadmin/share/pdf/Hyundai_styleguide_20200915.pdf."
 }

@@ -4,5 +4,7 @@
     "D51007"
   ],
   "brandUrl": "http://www.last.fm/",
-  "sourceUrl": "http://www.last.fm/about/resources"
+  "sourceUrl": "http://www.last.fm/about/resources",
+  "category": "Music Streaming",
+  "description": "The vibrant color palette of LastFM is dominated by a distinct red color (#D51007), which signifies its energetic and bold brand presence. These colors are prominently featured on their platform and can be sourced from their official brand resources at http://www.last.fm/about/resources."
 }

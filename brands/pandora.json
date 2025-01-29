@@ -5,5 +5,7 @@
     "000000"
   ],
   "brandUrl": "https://us.pandora.net/",
-  "sourceUrl": "https://developer.pandora.com/docs/developer-resources/brand-assets/"
+  "sourceUrl": "https://developer.pandora.com/docs/developer-resources/brand-assets/",
+  "category": "Jewelry",
+  "description": "Pandora is known for its modern and classic aesthetic, with brand colors of White (FFFFFF) representing elegance and Black (000000) symbolizing timelessness. These brand colors are officially documented in their developer resources."
 }

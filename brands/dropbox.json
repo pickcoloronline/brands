@@ -7,5 +7,7 @@
     "1E1919"
   ],
   "brandUrl": "https://www.dropbox.com/",
-  "sourceUrl": "https://dropboxdesignstandards.com/foundation/Color/intro#color-values_core-colors"
+  "sourceUrl": "https://dropboxdesignstandards.com/foundation/Color/intro#color-values_core-colors",
+  "category": "Technology - Cloud Storage and File Hosting",
+  "description": "Dropbox's color palette consists of shades like white (F7F5F2), blue (3984FF), and black (1E1919). These colors align with Dropbox's modern and minimalistic design aesthetic, promoting simplicity and trustworthiness. The color values were sourced from the Dropbox Design Standards."
 }

@@ -5,5 +5,7 @@
     "4A494D"
   ],
   "brandUrl": "http://www.soapui.org/",
-  "sourceUrl": null
+  "sourceUrl": null,
+  "category": "Software Testing",
+  "description": "SoapUI's brand colors are identified as #6CB33F, a vibrant green symbolizing innovation and growth, paired with #4A494D, a deep grey which conveys a sense of reliability. These colors are known through the brand pages and design assets available to developers and testers globally on platforms like the official SoapUI website and various UI design libraries."
 }

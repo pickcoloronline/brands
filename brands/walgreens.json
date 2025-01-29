@@ -8,5 +8,7 @@
     "35393D"
   ],
   "brandUrl": "http://www.walgreens.com/",
-  "sourceUrl": "http://developer.walgreens.com/sites/default/files/API_IntegrationMarketingStyleGuide_101513.pdf"
+  "sourceUrl": "http://developer.walgreens.com/sites/default/files/API_IntegrationMarketingStyleGuide_101513.pdf",
+  "category": "Retail Pharmacy",
+  "description": "Walgreens, a prominent brand in the retail pharmacy industry, is known for its distinctive color palette. The brand's colors include a vibrant red (E31837), a warm orange (F37520), a calming blue (489CD4), a deeper shade of blue (2774A6), and a neutral grey (35393D). These colors are officially sourced from Walgreens' API Integration and Marketing Style Guide."
 }

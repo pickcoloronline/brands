@@ -4,5 +4,7 @@
     "CB3837"
   ],
   "brandUrl": "http://www.npmjs.com/",
-  "sourceUrl": null
+  "sourceUrl": null,
+  "category": "Software & Technology",
+  "description": "npm's brand color is a bold red, represented by the hex code #CB3837. This color is well-known across the developer community, particularly due to its prominence on npm's official website, http://www.npmjs.com/."
 }

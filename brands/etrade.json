@@ -5,5 +5,7 @@
     "99CC00"
   ],
   "brandUrl": "http://etrade.com/",
-  "sourceUrl": "https://cdn2.etrade.net/1/69123119000.0/aempros/content/dam/etrade/developer-site/en_US/document/downloads/ETCS%20Co-Marketing%20Guidelines_October%202019_10-29-19%20FINAL.pdf"
+  "sourceUrl": "https://cdn2.etrade.net/1/69123119000.0/aempros/content/dam/etrade/developer-site/en_US/document/downloads/ETCS%20Co-Marketing%20Guidelines_October%202019_10-29-19%20FINAL.pdf",
+  "category": "Financial Services",
+  "description": "The brand colors for E*TRADE are Purple (code: 6633CC) and Green (code: 99CC00). These colors are documented in detail in the Co-Marketing Guidelines available on E*TRADE's official developer resources website."
 }

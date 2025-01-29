@@ -6,5 +6,7 @@
     "F0F0FF"
   ],
   "brandUrl": "http://twitch.tv",
-  "sourceUrl": "http://brand.twitch.tv/brand/"
+  "sourceUrl": "http://brand.twitch.tv/brand/",
+  "category": "Live Streaming",
+  "description": "Twitch is known for its vibrant and dynamic color palette, primarily featuring a striking purple (#9146FF), complemented by black (#000000) and a light near-white (#F0F0FF). These colors are sourced from Twitch's official brand guidelines."
 }

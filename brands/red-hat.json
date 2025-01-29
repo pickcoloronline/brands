@@ -4,5 +4,7 @@
     "EE0000"
   ],
   "brandUrl": "https://www.redhat.com/en",
-  "sourceUrl": "https://www.redhat.com/en/about/brand/standards"
+  "sourceUrl": "https://www.redhat.com/en/about/brand/standards",
+  "category": "Technology",
+  "description": "Red Hat primarily operates within the open-source software and enterprise solutions domain. Its iconic red color, represented by the hexadecimal color 'EE0000', embodies their brand identity. This vivid color is consistently used across all branding materials and is outlined in Red Hat's official brand and design standards, which can be accessed from their brand guidelines."
 }

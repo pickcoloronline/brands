@@ -9,5 +9,7 @@
     "CECECE"
   ],
   "brandUrl": "http://bower.io/",
-  "sourceUrl": "http://bower.io/docs/about/"
+  "sourceUrl": "http://bower.io/docs/about/",
+  "category": "Tech/Development Tools",
+  "description": "Bower is known for its vibrant and contrasting brand color palette featuring shades like bright yellows (#FFCC2F), vivid reds (#EF5734), clear blues (#00ACEE), lively greens (#2BAF2B), rich browns (#543729), and soft grays (#CECECE). These colors reflect the dynamic and robust nature of development tools, with recognition through its official and documentation sources."
 }

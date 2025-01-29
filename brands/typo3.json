@@ -4,5 +4,7 @@
     "FF8700"
   ],
   "brandUrl": "http://typo3.org/",
-  "sourceUrl": "http://typo3.org/about/the-brand/style-guide/the-typo3-colors/"
+  "sourceUrl": "http://typo3.org/about/the-brand/style-guide/the-typo3-colors/",
+  "category": "Content Management System",
+  "description": "TYPO3 uses a vibrant orange (#FF8700) as its primary brand color, reflecting creativity and innovation. This color palette is confirmed through the official TYPO3 style guide found on their website."
 }

@@ -6,5 +6,7 @@
     "000000"
   ],
   "brandUrl": "http://www.lego.com/",
-  "sourceUrl": "http://www.lego.com/en-us/aboutus/media-library"
+  "sourceUrl": "http://www.lego.com/en-us/aboutus/media-library",
+  "category": "Toy Manufacturing",
+  "description": "LEGO is renowned for its iconic and playful primary color palette, prominently featuring yellow (F6EC35), red (D11013), and black (000000). These vibrant colors are known from LEGO's official materials available on their website and media library."
 }

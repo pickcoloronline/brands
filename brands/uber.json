@@ -6,5 +6,7 @@
     "1FBAD6"
   ],
   "brandUrl": "http://www.uber.com",
-  "sourceUrl": "https://developer.uber.com/docs/riders/guides/design-guidelines"
+  "sourceUrl": "https://developer.uber.com/docs/riders/guides/design-guidelines",
+  "category": "Transportation",
+  "description": "Uber, a prominent brand in the transportation industry, adopts a modern and sleek aesthetic in its design. The color palette includes a deep midnight blue (09091A), a soft silver tone (C0C0C8), and a vibrant aqua blue (1FBAD6), which together convey a sense of innovation and reliability. These color guidelines are publicly available from Uber's design resources, as detailed in their official guide for developers."
 }

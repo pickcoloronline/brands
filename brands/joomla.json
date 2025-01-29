@@ -7,5 +7,7 @@
     "7AC143"
   ],
   "brandUrl": "http://www.joomla.org/",
-  "sourceUrl": "http://docs.joomla.org/JDOC:Colors"
+  "sourceUrl": "http://docs.joomla.org/JDOC:Colors",
+  "category": "Content Management System",
+  "description": "Joomla! is a versatile open-source content management system known for its vibrant brand colors: a vivid red (#F44321), a cool blue (#5091CD), a warm orange (#F9A541), and a fresh green (#7AC143). These colors, which represent the brand's dynamic and collaborative nature, are documented on the Joomla! official website and can be reviewed in their branding guidelines."
 }

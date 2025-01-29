@@ -6,5 +6,7 @@
     "F8F8F8"
   ],
   "brandUrl": "http://www.fluidui.com/",
-  "sourceUrl": null
+  "sourceUrl": null,
+  "category": "Software Development Tools",
+  "description": "Fluid UI primarily features a color palette centered around a vibrant blue (#3FA9F5), complemented by a neutral gray (#989898) and a clean white (#F8F8F8). These colors are reflective of a modern, approachable design, with the blue symbolizing trust and innovation, and are made known through their usage on Fluid UI's website and design interfaces."
 }

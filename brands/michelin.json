@@ -6,5 +6,7 @@
     "FFFFFF"
   ],
   "brandUrl": "http://michelin.com",
-  "sourceUrl": "https://designsystem.michelin.com/colors"
+  "sourceUrl": "https://designsystem.michelin.com/colors",
+  "category": "Automotive",
+  "description": "Michelin's brand colors consist of a vibrant yellow (#FCE500), a deep blue (#27509B), and a classic white (#FFFFFF). These colors are official and can be verified through their design system at https://designsystem.michelin.com/colors."
 }

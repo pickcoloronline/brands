@@ -7,5 +7,7 @@
     "001E2B"
   ],
   "brandUrl": "http://www.mongodb.com/",
-  "sourceUrl": "https://www.mongodb.com/company/newsroom/brand-resources"
+  "sourceUrl": "https://www.mongodb.com/company/newsroom/brand-resources",
+  "category": "Database Management",
+  "description": "MongoDB is recognized for its green color palette consisting of vibrant and deep shades, distinctively identified by hexadecimal values: 00ED64, 00684A, 023430, and 001E2B. These colors are made available through official sources, including their main website and newsroom brand resources."
 }

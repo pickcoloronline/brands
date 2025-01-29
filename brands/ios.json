@@ -11,5 +11,7 @@
     "8E8E93"
   ],
   "brandUrl": "http://www.apple.com/ios/",
-  "sourceUrl": "http://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/ColorImagesText.html"
+  "sourceUrl": "http://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/ColorImagesText.html",
+  "category": "Technology - Operating Systems",
+  "description": "The iOS color palette is widely recognized for its vibrant and diverse spectrum, characterized by shades of blue, yellow, orange, pink, green, and grey. These colors are essential elements in Apple's iOS design language, as documented in the official Apple Developer guidelines."
 }

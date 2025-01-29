@@ -6,5 +6,7 @@
     "FFFFFF"
   ],
   "brandUrl": "http://www.usps.com/",
-  "sourceUrl": "http://www.usps.com/styleguide/design/color-palette.htm"
+  "sourceUrl": "http://www.usps.com/styleguide/design/color-palette.htm",
+  "category": "Mail and Delivery Services",
+  "description": "The USPS brand colors include a deep navy blue (#333366), classic black (#000000), and clean white (#FFFFFF). These colors are derived from the USPS's official style guide."
 }

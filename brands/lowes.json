@@ -1,6 +1,10 @@
 {
   "title": "Lowe's Companies, Inc.",
-  "colors": ["012169"],
+  "colors": [
+    "012169"
+  ],
   "brandUrl": "http://lowes.com",
-  "sourceUrl": "https://www.lowes.com/pdf/Lowes_Logo_StyleGuide.pdf"
+  "sourceUrl": "https://www.lowes.com/pdf/Lowes_Logo_StyleGuide.pdf",
+  "category": "Home Improvement Retail",
+  "description": "The brand color for Lowe's Companies, Inc. is a deep navy blue identified by the hex code #012169. This color is primarily used in their logo and marketing materials as detailed in their logo style guide available from Lowes' official website and PDF resources."
 }

@@ -5,5 +5,7 @@
     "555555"
   ],
   "brandUrl": "http://apple.com",
-  "sourceUrl": "https://www.apple.com/legal/sales-support/certification/docs/logo_guidelines.pdf"
+  "sourceUrl": "https://www.apple.com/legal/sales-support/certification/docs/logo_guidelines.pdf",
+  "category": "Technology",
+  "description": "Apple Inc. is known for its sleek and modern design aesthetic, prominently featuring minimalist colors such as black (000000) and grey (555555). These colors are often associated with elegance and simplicity, which are integral to Apple's brand identity. Information about these colors can be certified through official guidelines found in Apple's logo documentation."
 }

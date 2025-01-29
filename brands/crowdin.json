@@ -5,5 +5,7 @@
     "FFFFFF"
   ],
   "brandUrl": "http://crowdin.com/",
-  "sourceUrl": "https://support.crowdin.com/using-logo/"
+  "sourceUrl": "https://support.crowdin.com/using-logo/",
+  "category": "Localization and Translation Software",
+  "description": "Crowdin uses a sophisticated and modern color palette, featuring shades of black and white, specifically with the hex colors #263238 and #FFFFFF. These colors are prominently highlighted on their official platform and can be referenced from their style guide and support page."
 }

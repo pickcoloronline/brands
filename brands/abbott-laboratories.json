@@ -5,5 +5,7 @@
     "000000"
   ],
   "brandUrl": "http://abbott.com",
-  "sourceUrl": "https://designenlassen1.s3.amazonaws.com/9/945592/brand_color.pdf"
+  "sourceUrl": "https://designenlassen1.s3.amazonaws.com/9/945592/brand_color.pdf",
+  "category": "Healthcare",
+  "description": "Abbott Laboratories utilizes a color palette featuring shades of blue (#009CDE) and black (#000000), embodying a professional and reliable image. These color details are sourced from a color guide available online at https://designenlassen1.s3.amazonaws.com/9/945592/brand_color.pdf."
 }

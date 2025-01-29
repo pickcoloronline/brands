@@ -5,5 +5,7 @@
     "35495E"
   ],
   "brandUrl": "http://vuejs.org/",
-  "sourceUrl": null
+  "sourceUrl": null,
+  "category": "Web Development",
+  "description": "Vue.js features a vibrant color palette with a striking combination of green (#42B883) and dark slate blue (#35495E). These colors, often associated with its technology roots, are prominently displayed on its official platform and marketing materials, making them easily recognizable within the web development community."
 }

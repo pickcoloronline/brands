@@ -4,5 +4,7 @@
     "092E20"
   ],
   "brandUrl": "https://www.djangoproject.com/",
-  "sourceUrl": "https://www.djangoproject.com/community/logos/"
+  "sourceUrl": "https://www.djangoproject.com/community/logos/",
+  "category": "Web Development",
+  "description": "Django is represented by the color #092E20, a rich, dark green hue that signifies growth, stability, and reliability, aligning with its role as a robust web framework. This color palette can be sourced from the official Django community logos, ensuring brand consistency."
 }

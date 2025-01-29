@@ -7,5 +7,7 @@
     "E2142D"
   ],
   "brandUrl": "http://www.nike.com/us/en_us/c/nikeplus/nikefuel",
-  "sourceUrl": "http://developer.nike.com/content/dam/nike-developer-cq/pages/documentation/nikefuel/VisualCenter.pdf"
+  "sourceUrl": "http://developer.nike.com/content/dam/nike-developer-cq/pages/documentation/nikefuel/VisualCenter.pdf",
+  "category": "Sportswear and Fitness",
+  "description": "NikeFuel, a sub-brand of Nike, utilizes vibrant and dynamic colors: \"4BAD31\" (green), \"F5DC00\" (yellow), \"E95814\" (orange), and \"E2142D\" (red). These colors are primarily sourced from their official NikeFuel visual documentation, available on Nike's developer site."
 }

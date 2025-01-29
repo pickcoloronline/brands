@@ -4,5 +4,7 @@
     "FF0033"
   ],
   "brandUrl": "https://www.espn.com/",
-  "sourceUrl": "https://a.espncdn.com/prod/assets/apis/pdfs/espn_api_branding_guide_10-12-11.pdf"
+  "sourceUrl": "https://a.espncdn.com/prod/assets/apis/pdfs/espn_api_branding_guide_10-12-11.pdf",
+  "category": "Sports Media",
+  "description": "The brand ESPN is distinguished by its bold red color, represented by the hex code FF0033, which symbolizes energy and excitement associated with sports. This color is prominently used in branding materials and is known from official branding guidelines provided by ESPN."
 }

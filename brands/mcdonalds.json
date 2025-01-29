@@ -1,6 +1,12 @@
 {
   "title": "McDonald’s",
-  "colors": ["BD0017", "FFC836", "264F36"],
+  "colors": [
+    "BD0017",
+    "FFC836",
+    "264F36"
+  ],
   "brandUrl": "http://www.mcdonalds.com/",
-  "sourceUrl": "https://www.mcdonalds.cz/assets/downloads/mcdelivery_brandbook.pdf"
+  "sourceUrl": "https://www.mcdonalds.cz/assets/downloads/mcdelivery_brandbook.pdf",
+  "category": "Fast Food",
+  "description": "McDonald's brand colors are known for their iconic red (BD0017), golden yellow (FFC836), and a classic green (264F36). These colors represent the brand's traditional palette, and information regarding them is available from the McDelivery Brandbook."
 }

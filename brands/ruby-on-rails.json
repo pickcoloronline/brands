@@ -4,5 +4,7 @@
     "CC0000"
   ],
   "brandUrl": "http://rubyonrails.org/",
-  "sourceUrl": "http://rubyonrails.org/images/rails-logo.svg"
+  "sourceUrl": "http://rubyonrails.org/images/rails-logo.svg",
+  "category": "Web Development Framework",
+  "description": "Ruby on Rails predominantly uses a deep red color, #CC0000, which signifies strength and passion. The brand is widely recognized in the web development community, and its logo can be sourced from http://rubyonrails.org/images/rails-logo.svg."
 }

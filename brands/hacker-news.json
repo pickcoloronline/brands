@@ -4,5 +4,7 @@
     "FF4000"
   ],
   "brandUrl": "http://news.ycombinator.com/",
-  "sourceUrl": "http://www.ycombinator.com/press/#assets"
+  "sourceUrl": "http://www.ycombinator.com/press/#assets",
+  "category": "Technology/Startups",
+  "description": "Hacker News, powered by the distinctive orange color code '#FF4000', is renowned for its tech-centric community. This hallmark color has become easily recognizable from their official sites, including 'http://news.ycombinator.com/' and via press assets listed on 'http://www.ycombinator.com/press/#assets'."
 }

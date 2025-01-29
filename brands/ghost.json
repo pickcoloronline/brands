@@ -8,5 +8,7 @@
     "15171A"
   ],
   "brandUrl": "https://ghost.org/",
-  "sourceUrl": "https://ghost.org/docs/logos/"
+  "sourceUrl": "https://ghost.org/docs/logos/",
+  "category": "Technology",
+  "description": "Ghost is known for its distinctly modern color palette which includes a vibrant green (#30CF43), a clean white (#FFFFFF), and a series of muted greys and blues (#CED4D9, #7C8B9A, #15171A). These colors are sourced directly from Ghost's brand guide, as available on their official documentation site."
 }

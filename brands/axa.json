@@ -5,5 +5,7 @@
     "FF1721"
   ],
   "brandUrl": "http://axa.com",
-  "sourceUrl": "https://designsystem.axa.com/design/colors"
+  "sourceUrl": "https://designsystem.axa.com/design/colors",
+  "category": "Insurance and Financial Services",
+  "description": "AXA's colors are a representation of stability and reliability, with a deep blue (00008F) and a vibrant red (FF1721). These colors are known from the 'AXA Design System' as per the source link provided."
 }

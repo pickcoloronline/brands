@@ -5,5 +5,7 @@
     "CC3333"
   ],
   "brandUrl": "http://tfl.gov.uk/modes/tube/",
-  "sourceUrl": "https://tfl.gov.uk/info-for/open-data-users/design-and-branding"
+  "sourceUrl": "https://tfl.gov.uk/info-for/open-data-users/design-and-branding",
+  "category": "Public transportation",
+  "description": "The London Underground, part of Transport for London, is characterized by its distinctive brand colors. The primary blue color, represented by the hex code #000099, symbolizes the identity of the London Underground transportation system, while the red color #CC3333 is used in the iconic logo and signage. These colors are well-known from Transport for London's official branding and promotional materials, as indicated by their open data resources for design and branding."
 }

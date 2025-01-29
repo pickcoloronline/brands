@@ -6,5 +6,7 @@
     "99CC99"
   ],
   "brandUrl": "http://php.net/",
-  "sourceUrl": "http://php.net/download-logos.php"
+  "sourceUrl": "http://php.net/download-logos.php",
+  "category": "Software Development",
+  "description": "PHP utilizes a color palette of shades such as soft blue (8892BE), dark violet (4F5B93), and soft green (99CC99). These colors are prominently featured in various brand assets and elements as outlined on the official PHP website and their downloadable logos page."
 }

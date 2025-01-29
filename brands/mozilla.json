@@ -10,5 +10,7 @@
     "6E008B"
   ],
   "brandUrl": "http://www.mozilla.org/",
-  "sourceUrl": "http://www.mozilla.org/styleguide/identity/mozilla/color/"
+  "sourceUrl": "http://www.mozilla.org/styleguide/identity/mozilla/color/",
+  "category": "Technology",
+  "description": "Mozilla is acclaimed for its vibrant and dynamic brand colors that range from classic black and white to vivid hues like cyan, mint green, dandelion yellow, coral red, and deep plum, which are detailed in their style guide. These colors represent Mozilla's innovative and open-source ethos, fostering a sense of inclusivity and creativity in the digital world."
 }

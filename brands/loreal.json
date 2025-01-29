@@ -1,6 +1,10 @@
 {
   "title": "L'Oréal",
-  "colors": ["000000"],
+  "colors": [
+    "000000"
+  ],
   "brandUrl": "http://loreal.com",
-  "sourceUrl": null
+  "sourceUrl": null,
+  "category": "Cosmetics and Personal Care",
+  "description": "L'Oréal primarily uses a sleek black color palette (Hex: #000000) which underscores the brand's elegance and timeless sophistication. This color choice is prominently featured across their packaging designs, advertisements, and digital media, as seen on their official website and marketing campaigns."
 }

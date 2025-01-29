@@ -7,5 +7,7 @@
     "554488"
   ],
   "brandUrl": "http://gitlab.com",
-  "sourceUrl": "http://gitlab.com/gitlab-com/gitlab-artwork/blob/master/colors"
+  "sourceUrl": "http://gitlab.com/gitlab-com/gitlab-artwork/blob/master/colors",
+  "category": "Software Development",
+  "description": "GitLab is a well-recognized brand in the software development domain, known for its vibrant and cohesive color palette that includes shades of orange and red, specifically FCA326, FC6D26, and E24329, complemented by a soothing 554488. These colors symbolize innovation and collaboration and are consistently used across various brand assets to establish a strong visual identity. The official sources of these colors can be verified from their artwork repository."
 }

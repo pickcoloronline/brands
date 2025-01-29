@@ -7,5 +7,7 @@
     "C9C8C8"
   ],
   "brandUrl": "http://gruntjs.com/",
-  "sourceUrl": "https://github.com/gruntjs/grunt-docs/blob/main/Grunt-Brand-Guide.md"
+  "sourceUrl": "https://github.com/gruntjs/grunt-docs/blob/main/Grunt-Brand-Guide.md",
+  "category": "Software Development",
+  "description": "Grunt is a task runner in the software development domain known for its distinctive color palette comprising earthy tones like '#452F13', vibrant orange '#E68724', sunny yellow '#FAA918', and neutral grey '#C9C8C8'. These colors are officially documented in their brand guide, emphasizing a connection to productivity and efficiency."
 }

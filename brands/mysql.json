@@ -5,5 +5,7 @@
     "F29111"
   ],
   "brandUrl": "http://www.mysql.com/",
-  "sourceUrl": "http://www.mysql.com/about/legal/logos.html"
+  "sourceUrl": "http://www.mysql.com/about/legal/logos.html",
+  "category": "Database Management System",
+  "description": "MySQL is recognized by its distinctive colors - a deep teal (00758F) and a vivid orange (F29111). These colors are integral to its brand identity and are referenced from its official logos as outlined on its legal page."
 }

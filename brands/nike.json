@@ -1,6 +1,12 @@
 {
   "title": "Nike",
-  "colors": ["FFFFFF", "000000", "EA553B"],
+  "colors": [
+    "FFFFFF",
+    "000000",
+    "EA553B"
+  ],
   "brandUrl": "http://nike.com",
-  "sourceUrl": "https://fliphtml5.com/djakl/oubo/basic"
+  "sourceUrl": "https://fliphtml5.com/djakl/oubo/basic",
+  "category": "Sportswear",
+  "description": "Nike, a leading brand in the sportswear industry, primarily features colors like white (#FFFFFF), black (#000000), and orange (#EA553B), as referenced from their official site and additional brand guidelines."
 }

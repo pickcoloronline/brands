@@ -5,5 +5,7 @@
     "00273F"
   ],
   "brandUrl": "http://www.typescriptlang.org/",
-  "sourceUrl": "https://www.typescriptlang.org/branding/"
+  "sourceUrl": "https://www.typescriptlang.org/branding/",
+  "category": "Software Development",
+  "description": "TypeScript, a language for application-scale JavaScript development, utilizes a color palette dominated by a primary blue (hex: 3178C6) and a deep navy (hex: 00273F). These hues are prominently featured across its digital presence, reinforcing its technical and professional brand identity. For more information on TypeScript's visual identity, refer to their official branding resources."
 }

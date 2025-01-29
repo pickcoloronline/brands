@@ -5,5 +5,7 @@
     "000000"
   ],
   "brandUrl": "http://angularjs.org/",
-  "sourceUrl": "https://nicholasbering.ca/angularjs/2015/02/13/angular-style-guide/"
+  "sourceUrl": "https://nicholasbering.ca/angularjs/2015/02/13/angular-style-guide/",
+  "category": "Web Development Framework",
+  "description": "AngularJS is recognizable by its distinctive brand colors, which include a bold red (#B52E31) and a classic black (#000000). These colors are well-documented in style guides and resources such as those available at angularjs.org and Nicholas Bering's guide."
 }

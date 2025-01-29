@@ -1,6 +1,11 @@
 {
   "title": "Prada",
-  "colors": ["FFFFFF", "000000"],
+  "colors": [
+    "FFFFFF",
+    "000000"
+  ],
   "brandUrl": "http://prada.com",
-  "sourceUrl": "https://issuu.com/lauracerulea/docs/prada_brand_book_paginas"
+  "sourceUrl": "https://issuu.com/lauracerulea/docs/prada_brand_book_paginas",
+  "category": "Luxury Fashion",
+  "description": "Prada is renowned for its sophisticated black and white color palette, as showcased in their official brand guidelines, available through resources like Issuu."
 }

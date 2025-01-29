@@ -4,5 +4,7 @@
     "A80030"
   ],
   "brandUrl": "http://www.debian.org/",
-  "sourceUrl": "http://www.debian.org/logos/"
+  "sourceUrl": "http://www.debian.org/logos/",
+  "category": "Technology",
+  "description": "Debian is primarily recognized within the realm of open-source software, with a defining brand color of cherry red (#A80030). This hue is prominently featured in the Debian logo and is a trademark element frequently seen on their official website and logo resources."
 }
