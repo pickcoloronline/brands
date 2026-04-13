@@ -66,7 +66,7 @@ function getGitTimestamps(filePath: string) {
 export const getBrands = async (): Promise<string[]> => {
   console.log("[build] Reading directory to get brand slugs...");
   const files = await fs.readdir(config.inputFolderPath);
-  const slugs = files.map((file) => path.basename(file, ".json"));
+  const slugs = files.map((file: string) => path.basename(file, ".json"));
   console.log(`[build] Found ${slugs.length} brand file(s).`);
   return slugs;
 };

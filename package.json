@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "joi": "^17.12.3",
+    "joi": "^18.1.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "typescript": "^6.0.2"
   },
   "devDependencies": {
-    "@types/node": "^20.12.7",
+    "@types/node": "^25.6.0",
     "tslib": "^2.6.2"
   }
 }

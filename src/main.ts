@@ -1,4 +1,3 @@
-import { title } from "process";
 import { config } from "./config";
 import { getBrand, getBrands } from "./services/getBrands";
 import { createDir, writeFile } from "./services/writeFiles";
