@@ -1,0 +1,11 @@
+{
+  "title": "Vercel",
+  "colors": [
+    "000000",
+    "ffffff"
+  ],
+  "brandUrl": "https://vercel.com/",
+  "sourceUrl": "https://vercel.com/geist/brand",
+  "category": "Software Development",
+  "description": "Vercel keeps its brand radically minimal: a black (#000000) triangle wordmark on white (#ffffff), and the inverse in dark mode. The stark simplicity mirrors the company's Geist design system used across its frontend cloud platform."
+}

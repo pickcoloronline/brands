@@ -1,0 +1,12 @@
+{
+  "title": "Amazon Web Services",
+  "colors": [
+    "ff9900",
+    "232f3e",
+    "ffffff"
+  ],
+  "brandUrl": "https://aws.amazon.com/",
+  "sourceUrl": "https://aws.amazon.com/architecture/icons/",
+  "category": "Cloud Computing",
+  "description": "Amazon Web Services is built around a bold \"Squid Ink\" navy (#232f3e) paired with its signature \"Smile\" orange (#ff9900), the same orange used in Amazon's parent-brand arrow, set against white (#ffffff). The pairing appears throughout AWS's console, icon set, and event branding, per its official architecture icon guidelines."
+}

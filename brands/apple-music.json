@@ -1,0 +1,12 @@
+{
+  "title": "Apple Music",
+  "colors": [
+    "fa2d48",
+    "000000",
+    "ffffff"
+  ],
+  "brandUrl": "https://music.apple.com/",
+  "sourceUrl": null,
+  "category": "Music Streaming",
+  "description": "Apple Music is identified by a red-pink gradient (#fa2d48) musical-note icon, set against black (#000000) and white (#ffffff) throughout its app interface."
+}

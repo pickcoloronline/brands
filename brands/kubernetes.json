@@ -1,0 +1,12 @@
+{
+  "title": "Kubernetes",
+  "colors": [
+    "326ce5",
+    "ffffff",
+    "000000"
+  ],
+  "brandUrl": "https://kubernetes.io/",
+  "sourceUrl": "https://github.com/kubernetes/kubernetes/tree/master/logo",
+  "category": "Software Development",
+  "description": "Kubernetes, the open-source container-orchestration project, is represented by its widely recognized \"K8s Blue\" (#326ce5) ship's-wheel logo, set against white (#ffffff) and black (#000000) throughout the project's documentation and ecosystem branding."
+}

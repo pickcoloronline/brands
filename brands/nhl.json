@@ -1,0 +1,12 @@
+{
+  "title": "NHL",
+  "colors": [
+    "000000",
+    "ffffff",
+    "b9975b"
+  ],
+  "brandUrl": "https://www.nhl.com/",
+  "sourceUrl": null,
+  "category": "Sports",
+  "description": "The NHL's shield logo is rendered in black (#000000) and white (#ffffff) with a silver-gold accent (#b9975b), a clean palette used across the league's branding and broadcasts."
+}
