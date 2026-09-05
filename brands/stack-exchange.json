@@ -1,14 +1,14 @@
 {
   "title": "Stack Exchange",
   "colors": [
-    "F48024",
-    "222426",
-    "BBC0C4",
-    "0095FF",
-    "FFB500"
+    "FF5E00",
+    "201C1D",
+    "F0EFEE",
+    "5074EF",
+    "FFCC00"
   ],
   "brandUrl": "http://stackexchange.com/",
-  "sourceUrl": "http://stackoverflow.com/company/logos",
+  "sourceUrl": "https://stackoverflow.design/brand/color",
   "category": "Technology & Information Sharing",
   "description": "Stack Exchange's brand colors are a vibrant and diverse mix, including the radiant orange (#F48024), the deep black (#222426), the soft gray (#BBC0C4), the lively blue (#0095FF), and the warm yellow (#FFB500). These recognizable colors are prominently featured across their online platforms, enhancing their digital presence and can be sourced from Stack Exchange's official logo repository at http://stackoverflow.com/company/logos."
 }
