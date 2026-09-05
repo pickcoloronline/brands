@@ -1,14 +1,14 @@
 {
   "title": "Stack Overflow",
   "colors": [
-    "F48024",
-    "222426",
-    "BBC0C4",
-    "0095FF",
-    "FFB500"
+    "FF5E00",
+    "201C1D",
+    "F0EFEE",
+    "5074EF",
+    "FFCC00"
   ],
   "brandUrl": "http://stackoverflow.com/",
-  "sourceUrl": "http://stackoverflow.com/company/logos",
+  "sourceUrl": "https://stackoverflow.design/brand/color",
   "category": "Technology",
   "description": "The brand colors for Stack Overflow are vibrant and recognizable, including shades like a striking orange (#F48024) and a complementary series of hues like deep charcoal (#222426), a soft gray (#BBC0C4), a vivid blue (#0095FF), and a bright yellow (#FFB500). These colors are well-known from their official brand resources and company logos."
 }
