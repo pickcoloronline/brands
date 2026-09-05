@@ -1,13 +1,13 @@
 {
   "title": "UC Berkeley",
   "colors": [
-    "003262",
-    "3B7EA1",
+    "002676",
     "FDB515",
-    "C4820E"
+    "FFFFFF",
+    "C09748"
   ],
   "brandUrl": "http://www.berkeley.edu/",
-  "sourceUrl": "http://brand.berkeley.edu/colors/",
+  "sourceUrl": "https://brand.berkeley.edu/visual-identity/colors/",
   "category": "Education",
   "description": "UC Berkeley's brand colors, primarily shades of blue and gold, reflect a tradition of excellence and prestige. These colors are sourced from their official branding guidelines available on their website."
 }
