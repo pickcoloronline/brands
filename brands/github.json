@@ -1,17 +1,10 @@
 {
   "title": "GitHub",
   "colors": [
-    "4078C0",
-    "6CC644",
-    "BD2C00",
-    "C9510C",
-    "6E5494",
-    "FAFAFA",
-    "F5F5F5",
-    "333"
+    "0FBF3E"
   ],
   "brandUrl": "https://github.com/",
-  "sourceUrl": "http://primercss.io/colors/",
+  "sourceUrl": "https://brand.github.com/foundations/color",
   "category": "Technology",
   "description": "GitHub is known for its distinct brand colors that represent its platform. The color palette includes shades like blue (#4078C0), green (#6CC644), and red (#BD2C00). These vibrant colors reflect the collaborative and innovative spirit of GitHub as a coding and development platform. The brand colors are sourced from Primer CSS, the company's design system and implementation resource."
 }
