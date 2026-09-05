@@ -1,13 +1,13 @@
 {
   "title": "Google",
   "colors": [
-    "4285f4",
-    "34a853",
-    "fbbc05",
-    "ea4335"
+    "4285F4",
+    "34A853",
+    "FBBC04",
+    "EA4335"
   ],
   "brandUrl": "https://www.google.com/",
-  "sourceUrl": "https://about.google/brand-resource-center/",
+  "sourceUrl": "https://partnermarketinghub.withgoogle.com/brands/google-assistant/overview/color-palette-and-typography/",
   "category": "Technology",
   "description": "Google's brand identity centers on a playful four-color palette drawn straight from its logo: blue (#4285f4), red (#ea4335), yellow (#fbbc05), and green (#34a853). The primary colors, deliberately non-linear and asymmetric, are used across Google's products to convey approachability and simplicity, as detailed in its brand resource center."
 }
