@@ -1,12 +1,12 @@
 {
   "title": "Yii Framework",
   "colors": [
-    "D8582B",
-    "16A314",
-    "3B6FBA"
+    "F18A2A",
+    "83C933",
+    "40B3D8"
   ],
   "brandUrl": "http://www.yiiframework.com/",
-  "sourceUrl": "http://www.yiiframework.com/logo/",
+  "sourceUrl": "https://www.yiiframework.com/logo",
   "category": "Software Development",
   "description": "The Yii Framework brand is known for its distinctive color palette featuring shades of orange, green, and blue (Hex: D8582B, 16A314, 3B6FBA). These colors are prominently showcased in various brand depictions and graphics accessible through the official Yii Framework website and logo source."
 }
