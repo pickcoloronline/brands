@@ -1,15 +1,15 @@
 {
   "title": "Virgin Money",
   "colors": [
-    "CC0000",
-    "333333",
-    "A93C3B",
-    "A896A0",
-    "7A3671",
-    "BD1D65"
+    "E10A0A",
+    "BD1F66",
+    "793772",
+    "4EB4AE",
+    "6DB644",
+    "FFFFFF"
   ],
   "brandUrl": "http://virginmoney.com/",
-  "sourceUrl": null,
+  "sourceUrl": "https://design.virginmoney.com/principles/digital-design/",
   "category": "Financial Services",
   "description": "Virgin Money, known for its vibrant and dynamic branding, predominantly uses shades of red, purples, and greys across its representation. Their primary color, a vivid red (#CC0000), stands out as a signature hue reflecting passion and energy, synonymous with the Virgin brand family. Complemented by deep shades like #333333 and brilliant tones like #7A3671, these colors help define their modern and approachable aesthetic. Information on these hues can be typically found from the company's marketing materials and branding guidelines."
 }
