@@ -1,9 +1,9 @@
 {
   "title": "Sky",
   "colors": [
-    "0072c9",
+    "000FF5",
     "000000",
-    "ffffff"
+    "FFFFFF"
   ],
   "brandUrl": "https://www.sky.com/",
   "sourceUrl": "https://sky-ui.cf.sky.com/foundations/colours/",
