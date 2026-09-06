@@ -1,12 +1,12 @@
 {
   "title": "Sky",
   "colors": [
-    "0072c9",
+    "000FF5",
     "000000",
-    "ffffff"
+    "FFFFFF"
   ],
   "brandUrl": "https://www.sky.com/",
-  "sourceUrl": null,
+  "sourceUrl": "https://sky-ui.cf.sky.com/foundations/colours/",
   "category": "Media and Broadcasting",
   "description": "Sky, the European pay-TV and broadband provider, is defined by a bright corporate blue (#0072c9), paired with black (#000000) and white (#ffffff) across its channels and services."
 }
