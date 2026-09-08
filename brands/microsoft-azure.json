@@ -6,7 +6,7 @@
     "ffffff"
   ],
   "brandUrl": "https://azure.microsoft.com/",
-  "sourceUrl": null,
+  "sourceUrl": "https://learn.microsoft.com/en-us/azure/architecture/icons/",
   "category": "Cloud Computing",
   "description": "Microsoft Azure is identified by a bright cyan-blue (#0078d4), often paired with a lighter sky tone (#50e6ff) in gradients across its portal and service icons, set against white (#ffffff). This distinct Azure blue separates the cloud platform visually from Microsoft's other product families."
 }
