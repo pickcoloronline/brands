@@ -1,11 +1,11 @@
 {
   "title": "NASA",
   "colors": [
-    "0032A0",
-    "E4002B"
+    "0B3D91",
+    "FC3D21"
   ],
   "brandUrl": "http://www.nasa.gov/",
-  "sourceUrl": "https://www.nasa.gov/nasa-brand-center/brand-guidelines/#The-NASA-Logotype",
+  "sourceUrl": "https://www.nasa.gov/nasa-brand-center/brand-guidelines/",
   "category": "Aerospace",
   "description": "NASA is identified by its iconic colors, Cosmic Blue ('0032A0') and Exploration Red ('E4002B'). These colors, derived from NASA's official brand guidelines, symbolize NASA’s commitment to exploration and innovation."
 }
