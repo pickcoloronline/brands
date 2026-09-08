@@ -1,13 +1,13 @@
 {
   "title": "TikTok",
   "colors": [
-    "010101",
-    "25f4ee",
-    "fe2c55",
-    "ffffff"
+    "000000",
+    "2DCCD3",
+    "FE2C55",
+    "FFFFFF"
   ],
   "brandUrl": "https://www.tiktok.com/",
-  "sourceUrl": null,
+  "sourceUrl": "https://developers.tiktok.com/doc/getting-started-design-guidelines",
   "category": "Social Media",
   "description": "TikTok is instantly recognizable by its bold brand palette: a deep black (#010101) base paired with a vibrant cyan (#25f4ee) and a bright red-pink (#fe2c55), accented with white (#ffffff). This striking combination, echoing its musical-note logomark's chromatic-aberration effect, is central to TikTok's youthful, energetic identity."
 }
