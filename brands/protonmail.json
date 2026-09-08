@@ -1,11 +1,10 @@
 {
   "title": "ProtonMail",
   "colors": [
-    "505264",
-    "8A90C7"
+    "6D4AFF"
   ],
   "brandUrl": "http://protonmail.com/",
-  "sourceUrl": "http://protonmail.com/media-kit",
+  "sourceUrl": "https://proton.me/media/kit",
   "category": "Secure Email Services",
   "description": "ProtonMail features a compelling combination of deep blue-toned colors, with primary shades being #505264 and accent shades of #8A90C7. These colors are recognized from their official media kit available on their website."
 }
