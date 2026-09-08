@@ -1,14 +1,14 @@
 {
   "title": "Asana",
   "colors": [
-    "3BE8B0",
-    "1AAFD0",
-    "6A67CE",
-    "FFB900",
-    "FC636B"
+    "FF584A",
+    "FD3FFD",
+    "FFC9FF",
+    "F3F3F3",
+    "0B0505"
   ],
   "brandUrl": "http://asana.com/",
-  "sourceUrl": "http://asana.com/styles",
+  "sourceUrl": "https://assets.asana.biz/asset/a4bdc79a-88a2-463f-8243-38fe90b79c88/Asana-Brand-Guidelines-FY27.pdf",
   "category": "Productivity Software",
   "description": "Asana is well-known for its vibrant and varied color palette, which includes greens, blues, purples, and yellows. These colors are prominently featured and sourced from their official brand and style guides."
 }
