@@ -2,11 +2,11 @@
   "title": "Indeed",
   "colors": [
     "FFFFFF",
-    "001C40",
+    "00123C",
     "003A9B"
   ],
   "brandUrl": "http://www.indeed.com/",
   "sourceUrl": "https://indeed.design/brand/color/",
   "category": "Online Job Search and Recruitment",
-  "description": "Indeed is recognized for its professional and cohesive brand identity, primarily incorporating the colors white (#FFFFFF), navy blue (#001C40), and royal blue (#003A9B). These colors are sourced from Indeed's official design guidelines, ensuring consistency across their platform and branding materials."
+  "description": "Indeed's job-search brand palette pairs white (#ffffff) with deep navy (#00123c) and royal blue (#003a9b). Colors are documented in Indeed Design's brand color guidelines."
 }

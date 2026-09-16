@@ -1,14 +1,14 @@
 {
   "title": "Heroku",
   "colors": [
-    "79589F",
-    "408FEC",
-    "74C080",
-    "FA9F47",
-    "D64141"
+    "5A1BA9",
+    "0176D3",
+    "300B60",
+    "D7BFF2",
+    "FFFFFF"
   ],
   "brandUrl": "https://www.heroku.com/",
   "sourceUrl": "https://devcenter.heroku.com/articles/heroku-brand-guidelines#color",
   "category": "Cloud Platform as a Service (PaaS)",
-  "description": "Heroku's brand colors, consisting of shades like purple (#79589F), blue (#408FEC), green (#74C080), orange (#FA9F47), and red (#D64141), embody a lively and dynamic palette. These colors are outlined in detail in their brand guidelines available on their official website."
+  "description": "Heroku's cloud platform brand palette includes purple (#5a1ba9), blue (#0176d3), deep violet (#300b60), soft lavender (#d7bff2), and white (#ffffff). Colors are documented in Heroku's official brand guidelines."
 }
