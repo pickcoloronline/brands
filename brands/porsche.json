@@ -1,0 +1,16 @@
+{
+  "title": "Porsche",
+  "colors": [
+    "010205",
+    "FFFFFF",
+    "F1F1F4",
+    "1A44EA",
+    "197E10",
+    "AC5102",
+    "BA171F"
+  ],
+  "brandUrl": "https://www.porsche.com/",
+  "sourceUrl": "https://designsystem.porsche.com/v4/scss/color/examples/",
+  "category": "Automotive",
+  "description": "Porsche Design System tokens use near-black primary (#010205), white canvas (#ffffff), light surface (#f1f1f4), and semantic accents for info (#1a44ea), success (#197e10), warning (#ac5102), and error (#ba171f). Values come from the official Porsche Design System color styles (HSL tokens with hex equivalents used in the design system)."
+}

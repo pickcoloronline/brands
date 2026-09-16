@@ -1,0 +1,21 @@
+{
+  "title": "Sparkasse",
+  "colors": [
+    "FF0000",
+    "FFFFFF",
+    "000000",
+    "666666",
+    "D9D9D9",
+    "FFC900",
+    "FF8F00",
+    "9B348E",
+    "2C57D2",
+    "00ACD3",
+    "009864",
+    "8CD000"
+  ],
+  "brandUrl": "https://www.sparkasse.de/",
+  "sourceUrl": "https://www.taunussparkasse.de/content/dam/myif/taunussparkasse/work/download/Logos/Manual/rl_farbe_20180312.pdf",
+  "category": "Banking",
+  "description": "Sparkasse's official colour manual defines Sparkassen-Rot (#ff0000) with white (#ffffff), black (#000000), and greys (#666666, #d9d9d9), plus secondary yellow (#ffc900), orange (#ff8f00), violet (#9b348e), blues (#2c57d2, #00acd3), and greens (#009864, #8cd000). Hex values are published in the Sparkasse Farben guidelines (HKS/Pantone/RGB/Hex)."
+}
