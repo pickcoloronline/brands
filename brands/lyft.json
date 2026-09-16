@@ -1,0 +1,24 @@
+{
+  "title": "Lyft",
+  "colors": [
+    "FF00BF",
+    "352384",
+    "4901B8",
+    "B80B8C",
+    "333447",
+    "474C62",
+    "728099",
+    "BFC7D9",
+    "D8DCE6",
+    "F3F3F5",
+    "E60000",
+    "FAA33B",
+    "FCEE22",
+    "33D9C2",
+    "2AACE3"
+  ],
+  "brandUrl": "https://www.lyft.com/",
+  "sourceUrl": "https://cdn.lyft.net/tetris/section-colors.html",
+  "category": "Transportation",
+  "description": "Lyft's Tetris design system documents primary brand colours including pink (#ff00bf), mulberry (#352384), purple (#4901b8), magenta (#b80b8c), charcoal (#333447), and neutrals (#474c62, #728099, #bfc7d9, #d8dce6, #f3f3f5), plus secondary red (#e60000), orange (#faa33b), yellow (#fcee22), green (#33d9c2), and blue (#2aace3). Hex values are defined in Lyft's official Tetris stylesheet."
+}

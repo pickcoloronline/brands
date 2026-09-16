@@ -1,0 +1,18 @@
+{
+  "title": "BMW",
+  "colors": [
+    "1C69D4",
+    "0653B6",
+    "1F94FF",
+    "262626",
+    "FFFFFF",
+    "0066B1",
+    "003D78",
+    "E22718",
+    "D6D6D6"
+  ],
+  "brandUrl": "https://www.bmw.com/",
+  "sourceUrl": "https://www.bmwgroup-classic.com/content/dam/grpw/websites/bmwgroup-classic_com/bmw_clubs/downloads/leitlinien/en/Guideline-No5-BMW-Clubs-CI-Guideline-EN.pdf",
+  "category": "Automotive",
+  "description": "BMW's published digital palette centers on call-to-action blue (#1c69d4) with related blues (#0653b6, #1f94ff), anthracite (#262626), and white (#ffffff). Official BMW Group Clubs CI materials also document BMW symbol blues (#0066b1, #003d78), M red (#e22718), and grey (#d6d6d6)."
+}

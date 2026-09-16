@@ -1,0 +1,25 @@
+{
+  "title": "JetBrains",
+  "colors": [
+    "000000",
+    "7D7D7D",
+    "CDCDCD",
+    "FCF84A",
+    "FDB60D",
+    "FC801D",
+    "FE2857",
+    "DD1265",
+    "FF318C",
+    "FF45ED",
+    "AF1DF5",
+    "6B57FF",
+    "087CFA",
+    "07C3F2",
+    "21D789",
+    "3DEA62"
+  ],
+  "brandUrl": "https://www.jetbrains.com/",
+  "sourceUrl": "https://www.jetbrains.com/company/brand/",
+  "category": "Developer Tools",
+  "description": "JetBrains' official brand palette spans black (#000000), greys (#7d7d7d, #cdcdcd), and a spectrum of lemon (#fcf84a), amber (#fdb60d), tangerine (#fc801d), reds and magentas (#fe2857, #dd1265, #ff318c, #ff45ed), purples (#af1df5, #6b57ff), blues (#087cfa, #07c3f2), and greens (#21d789, #3dea62). Hex, RGB, CMYK, and Pantone values are published on JetBrains' Brand Assets page."
+}
