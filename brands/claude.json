@@ -1,0 +1,24 @@
+{
+  "title": "Claude",
+  "colors": [
+    "000000",
+    "D97757",
+    "FFFFFF",
+    "FCFCFB",
+    "F9F9F7",
+    "F0EFEC",
+    "C3C2B7",
+    "A5A49A",
+    "898781",
+    "6D6B67",
+    "52514E",
+    "20201F",
+    "151515",
+    "0B0B0B",
+    "F4ABAB"
+  ],
+  "brandUrl": "https://claude.ai/",
+  "sourceUrl": "https://claude.ai/",
+  "category": "Artificial Intelligence",
+  "description": "Claude's official website embeds its Claude Design System colour tokens: black (#000000), clay brand accent (#D97757), white and light surfaces (#FFFFFF, #FCFCFB, #F9F9F7, #F0EFEC), neutral greys (#C3C2B7, #A5A49A, #898781, #6D6B67, #52514E, #20201F), dark neutrals (#151515, #0B0B0B), and red (#F4ABAB)."
+}
