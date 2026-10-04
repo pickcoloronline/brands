@@ -1,0 +1,20 @@
+{
+  "title": "Elastic",
+  "colors": [
+    "0B64DD",
+    "BC1E70",
+    "008B87",
+    "008A5E",
+    "FACB3D",
+    "C61E25",
+    "07101F",
+    "111C2C",
+    "1D2A3E",
+    "516381",
+    "FFFFFF"
+  ],
+  "brandUrl": "https://www.elastic.co/",
+  "sourceUrl": "https://eui.elastic.co/docs/getting-started/theming/tokens/colors/",
+  "category": "Developer Tools",
+  "description": "Elastic UI (EUI) documents brand colours primary (#0b64dd), accent (#bc1e70), accent secondary (#008b87), success (#008a5e), warning (#facb3d), and danger (#c61e25), with related text/ink neutrals (#07101f, #111c2c, #1d2a3e, #516381, #ffffff)."
+}
