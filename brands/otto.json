@@ -1,0 +1,20 @@
+{
+  "title": "OTTO",
+  "colors": [
+    "F00020",
+    "008FFD",
+    "FFFFFF",
+    "222222",
+    "F0F0F0",
+    "E6E6E6",
+    "C4C4C4",
+    "777777",
+    "7EA87B",
+    "FFDF33",
+    "50CC7F"
+  ],
+  "brandUrl": "https://www.otto.de/",
+  "sourceUrl": "https://www.otto.de/design-system/fragments/color",
+  "category": "E-commerce",
+  "description": "OTTO's official Design System publishes basic and semantic colour tokens with hex: primary OTTO red (#f00020), blue (#008ffd), white (#ffffff), near-black (#222222), greys (#f0f0f0, #e6e6e6, #c4c4c4, #777777), plus semantic sustainable green (#7ea87b), hint yellow (#ffdf33), and success green (#50cc7f)."
+}

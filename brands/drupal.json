@@ -1,12 +1,10 @@
 {
   "title": "Drupal",
   "colors": [
-    "0077C0",
-    "81CEFF",
-    "00598E"
+    "009CDE"
   ],
   "brandUrl": "https://www.drupal.org/",
   "sourceUrl": "https://www.drupal.org/about/media-kit/logos",
   "category": "Content Management System",
-  "description": "Drupal's brand colors include a vibrant 'Drupal Blue' (#0077C0), a lighter 'Sky Blue' (#81CEFF), and a darker 'Deep Blue' (#00598E). These colors are prominently associated with Drupal's identity and can be found detailed in their official media kit accessible on their website."
+  "description": "Drupal's primary brand color is Drupal Blue (#009cde), as documented in the project's official media kit and logo resources."
 }

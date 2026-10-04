@@ -1,0 +1,21 @@
+{
+  "title": "GitHub Copilot",
+  "colors": [
+    "8534F3",
+    "C898FD",
+    "B870FF",
+    "43179E",
+    "26115F",
+    "160048",
+    "F4A876",
+    "F08A3A",
+    "FE4C25",
+    "C53211",
+    "801E0F",
+    "500A00"
+  ],
+  "brandUrl": "https://github.com/features/copilot",
+  "sourceUrl": "https://brand.github.com/brand-identity/copilot",
+  "category": "Developer Tools",
+  "description": "GitHub's official Brand Toolkit documents the Copilot palette: Copilot Purple (#8534F3), lighter purples (#C898FD, #B870FF), deep purples (#43179E, #26115F, #160048), and orange accents from light to dark (#F4A876, #F08A3A, #FE4C25, #C53211, #801E0F, #500A00)."
+}

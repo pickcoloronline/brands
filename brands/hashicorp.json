@@ -1,0 +1,31 @@
+{
+  "title": "HashiCorp",
+  "colors": [
+    "000000",
+    "FFFFFF",
+    "0C0C0E",
+    "1060FF",
+    "0C56E9",
+    "0046D1",
+    "7B42BC",
+    "A067DA",
+    "FFCF25",
+    "E03875",
+    "F24C53",
+    "06D092",
+    "02A8EF",
+    "1868F2",
+    "14C6CB",
+    "3B3D45",
+    "656A76",
+    "8C909C",
+    "C2C5CB",
+    "DEDFE3",
+    "F1F2F3",
+    "FAFAFA"
+  ],
+  "brandUrl": "https://www.hashicorp.com/",
+  "sourceUrl": "https://helios.hashicorp.design/foundations/colors",
+  "category": "Developer Tools",
+  "description": "HashiCorp's Helios Design System and published design-system-tokens define corporate brand black (#000000), white (#ffffff), strong foreground (#0c0c0e), action blues (#1060ff, #0c56e9, #0046d1), product brand colours for Terraform (#7b42bc / #a067da), Vault (#ffcf25), Consul (#e03875), Boundary (#f24c53), Nomad (#06d092), Packer (#02a8ef), Vagrant (#1868f2), and Waypoint (#14c6cb), plus neutral palette greys."
+}
