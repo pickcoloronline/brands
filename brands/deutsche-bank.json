@@ -1,0 +1,15 @@
+{
+  "title": "Deutsche Bank",
+  "colors": [
+    "0018A8",
+    "FFFFFF",
+    "000000",
+    "0C2340",
+    "00A3E0",
+    "4AC9E3"
+  ],
+  "brandUrl": "https://www.deutsche-bank.de/",
+  "sourceUrl": "https://wealth.db.com/dam/deutschewealth/brand-assets/Deutsche-Bank-Guidelines.pdf",
+  "category": "Banking",
+  "description": "Deutsche Bank's primary brand palette is built around Deutsche Blue (#0018a8), white (#ffffff), and black (#000000), with supporting blues (#0c2340, #00a3e0, #4ac9e3). Hex and RGB values are specified in Deutsche Bank's official brand guidelines."
+}
