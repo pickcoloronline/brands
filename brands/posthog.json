@@ -1,0 +1,21 @@
+{
+  "title": "PostHog",
+  "colors": [
+    "1490E8",
+    "0457FF",
+    "FF474D",
+    "2BB3DF",
+    "47C861",
+    "FFCE1C",
+    "A0CA21",
+    "A737D2",
+    "FF5C1C",
+    "43DAB3",
+    "6D4FFF",
+    "FFA81C"
+  ],
+  "brandUrl": "https://posthog.com/",
+  "sourceUrl": "https://brand.posthog.com/colors",
+  "category": "Software Development",
+  "description": "PostHog publishes its core brand colours on its official brand site: blue (#1490e8), cobalt (#0457ff), coral (#ff474d), corn blue (#2bb3df), green (#47c861), lemon (#ffce1c), lime (#a0ca21), purple (#a737d2), tangerine (#ff5c1c), teal (#43dab3), violet (#6d4fff) and yellow (#ffa81c)."
+}

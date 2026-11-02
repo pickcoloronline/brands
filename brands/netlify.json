@@ -1,0 +1,20 @@
+{
+  "title": "Netlify",
+  "colors": [
+    "014847",
+    "05BDBA",
+    "32E6E2",
+    "181A1C",
+    "FFFFFF",
+    "2E51ED",
+    "382AA4",
+    "FE4E5C",
+    "FBB13D",
+    "9A2D99",
+    "3AC364"
+  ],
+  "brandUrl": "https://www.netlify.com/",
+  "sourceUrl": "https://www.netlify.com/assets/netlify-brand-guide.pdf",
+  "category": "Cloud Computing",
+  "description": "Netlify publishes its palette in the official Netlify brand guide: teal 800 (#014847), teal 400 (#05bdba), teal 200 (#32e6e2), neutral 800 (#181a1c) and white (#ffffff), with accents blue 700 (#2e51ed), purple 800 (#382aa4), red 500 (#fe4e5c), gold 300 (#fbb13d), pink 700 (#9a2d99) and green 400 (#3ac364, UI only)."
+}

@@ -1,0 +1,15 @@
+{
+  "title": "EDEKA",
+  "colors": [
+    "1B66B3",
+    "FCE531",
+    "000000",
+    "4A4A4A",
+    "B4B4B4",
+    "F3F3F3"
+  ],
+  "brandUrl": "https://www.edeka.de/",
+  "sourceUrl": "https://verbund.edeka/noindex/guidelines-schulung/design-styleguide/farben-design-guidelines.html",
+  "category": "Retail",
+  "description": "EDEKA publishes its colours in the official EDEKA design guidelines: CI colours EDEKA-blue (#1b66b3) and EDEKA-yellow (#fce531), with UI colours black (#000000), dark grey (#4a4a4a), grey (#b4b4b4) and light grey (#f3f3f3)."
+}

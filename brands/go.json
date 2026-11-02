@@ -1,0 +1,19 @@
+{
+  "title": "Go",
+  "colors": [
+    "00ADD8",
+    "5DC9E2",
+    "00A29C",
+    "000000",
+    "CE3262",
+    "FDDD00",
+    "00758D",
+    "555759",
+    "402B56",
+    "DBD9D6"
+  ],
+  "brandUrl": "https://go.dev/",
+  "sourceUrl": "https://go.dev/assets/go-brand-book-v1.9.5.pdf",
+  "category": "Programming Language",
+  "description": "The Go programming language publishes its colours in the official Go Brand Book on go.dev: primary Gopher Blue (#00add8), Light Blue (#5dc9e2) and Aqua (#00a29c), with Black (#000000), plus secondary accents Fuchsia (#ce3262), Yellow (#fddd00), dark teal (#00758d), grey (#555759), purple (#402b56) and light grey (#dbd9d6)."
+}

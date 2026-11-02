@@ -1,0 +1,15 @@
+{
+  "title": "Bluesky",
+  "colors": [
+    "0560FF",
+    "FFFFFF",
+    "000000",
+    "F9FAFB",
+    "232E3E",
+    "75AFFF"
+  ],
+  "brandUrl": "https://bsky.app/",
+  "sourceUrl": "https://bsky.social/about/support/branding",
+  "category": "Social Media",
+  "description": "Bluesky's brand palette leads with Blue (#0560ff) as the primary brand colour, alongside White (#ffffff), Black (#000000), Light Gray (#f9fafb), Dark Gray (#232e3e) for the wordmark text, and Light Blue (#75afff) for the sky gradient. Hex values are published in Bluesky's official brand guidelines."
+}

@@ -1,0 +1,15 @@
+{
+  "title": "FlixBus",
+  "colors": [
+    "97D700",
+    "353535",
+    "FFFFFF",
+    "31A100",
+    "5CC500",
+    "187D00"
+  ],
+  "brandUrl": "https://www.flixbus.com/",
+  "sourceUrl": "https://styleguide.hive.flix.tech/design-tokens/",
+  "category": "Transportation",
+  "description": "FlixBus uses Flix's signature brand green (#97d700) with dark grey (#353535) for text and white (#ffffff) backgrounds, supported by UI greens (#31a100, #5cc500, #187d00). Hex values are defined as design tokens in Flix's official Honeycomb design system."
+}

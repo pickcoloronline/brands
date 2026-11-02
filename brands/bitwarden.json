@@ -1,0 +1,21 @@
+{
+  "title": "Bitwarden",
+  "colors": [
+    "175DDC",
+    "0C3276",
+    "F3F6F9",
+    "FFFFFF",
+    "000000",
+    "D8E2EB",
+    "99A7B5",
+    "2CDDE9",
+    "A2F4FD",
+    "7BF1A8",
+    "FDC700",
+    "FF6550"
+  ],
+  "brandUrl": "https://bitwarden.com/",
+  "sourceUrl": "https://bitwarden.com/brand/",
+  "category": "Password Management",
+  "description": "Bitwarden's brand palette centres on Bitwarden Blue (#175ddc) and Deep Blue (#0c3276), with Off White (#f3f6f9), True White (#ffffff), True Black (#000000), Light Grey (#d8e2eb), and Medium Grey (#99a7b5), plus Teal Highlight (#2cdde9) and Light Teal Highlight (#a2f4fd), and tertiary Green (#7bf1a8), Yellow (#fdc700), and Red (#ff6550). Hex, RGB, and CMYK values are published on Bitwarden's official brand page."
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Webflow",
+  "colors": [
+    "146EF5",
+    "080808",
+    "FFFFFF",
+    "EE1D36",
+    "FF6B00",
+    "FFAE13",
+    "00D722",
+    "7A3DFF",
+    "ED52CB"
+  ],
+  "brandUrl": "https://webflow.com/",
+  "sourceUrl": "https://brand.webflow.com/design-guidelines",
+  "category": "Design Software",
+  "description": "Webflow's core palette is Blue (#146ef5), Black (#080808), and White (#ffffff), supported by six bright secondary colours: Red (#ee1d36), Orange (#ff6b00), Yellow (#ffae13), Green (#00d722), Purple (#7a3dff), and Pink (#ed52cb). Hex values are published in Webflow's official brand design guidelines."
+}

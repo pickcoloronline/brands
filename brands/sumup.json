@@ -1,0 +1,13 @@
+{
+  "title": "SumUp",
+  "colors": [
+    "FF61F2",
+    "1E1C1C",
+    "FBFBF9",
+    "F5F4ED"
+  ],
+  "brandUrl": "https://www.sumup.com/",
+  "sourceUrl": "https://github.com/sumup-oss/circuit-ui/blob/main/packages/design-tokens/themes/light.ts",
+  "category": "Financial Technology",
+  "description": "SumUp publishes its colours in the official Circuit UI design tokens: brand pink (#ff61f2), foreground and strong background (#1e1c1c), normal background (#fbfbf9) and subtle background (#f5f4ed)."
+}
