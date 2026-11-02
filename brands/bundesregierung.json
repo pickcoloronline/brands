@@ -1,0 +1,26 @@
+{
+  "title": "Bundesregierung",
+  "colors": [
+    "5F316E",
+    "780F2D",
+    "C0003C",
+    "CD5038",
+    "F7BB3D",
+    "F9E03A",
+    "C1CA31",
+    "597C39",
+    "005C45",
+    "00854A",
+    "00818B",
+    "80CDEC",
+    "0077B6",
+    "007194",
+    "004B76",
+    "576164",
+    "BEC5C9"
+  ],
+  "brandUrl": "https://www.bundesregierung.de/",
+  "sourceUrl": "https://styleguide.bundesregierung.de/sg-de/basiselemente/farben",
+  "category": "Government",
+  "description": "The official styleguide of the German Federal Government (styleguide.bundesregierung.de) defines a 17-colour spectrum: Violett (#5F316E), Dunkelrot (#780F2D), Rot (#C0003C), Orange (#CD5038), Hellorange (#F7BB3D), Gelb (#F9E03A), the greens #C1CA31, #597C39, #005C45 and #00854A, the teals #00818B and #007194, Hellblau (#80CDEC), Blau (#0077B6), Dunkelblau (#004B76), Dunkelgrau (#576164) and Hellgrau (#BEC5C9)."
+}

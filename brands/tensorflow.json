@@ -1,0 +1,16 @@
+{
+  "title": "TensorFlow",
+  "colors": [
+    "FF6F00",
+    "FFA800",
+    "425066",
+    "616161",
+    "CCCCCC",
+    "E6E6E6",
+    "FFFFFF"
+  ],
+  "brandUrl": "https://www.tensorflow.org/",
+  "sourceUrl": "https://www.tensorflow.org/extras/tensorflow_brand_guidelines.pdf",
+  "category": "Artificial Intelligence",
+  "description": "The official TensorFlow brand guidelines on tensorflow.org define the oranges #FF6F00 and #FFA800, the slate #425066, the greys #616161, #CCCCCC and #E6E6E6, and White (#FFFFFF)."
+}

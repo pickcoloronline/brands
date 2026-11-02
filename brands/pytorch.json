@@ -1,0 +1,23 @@
+{
+  "title": "PyTorch",
+  "colors": [
+    "DE3412",
+    "F05F42",
+    "F2765D",
+    "E12353",
+    "CC2F90",
+    "CC2FAA",
+    "B932CC",
+    "812CE5",
+    "262626",
+    "666666",
+    "BBBBBB",
+    "E6E6E6",
+    "F6F6F6",
+    "FFFFFF"
+  ],
+  "brandUrl": "https://pytorch.org/",
+  "sourceUrl": "https://pytorch.org/assets/brand-guidelines/PyTorch-Brand-Guidelines.pdf",
+  "category": "Artificial Intelligence",
+  "description": "The official PyTorch Brand Guidelines on pytorch.org define the primary Orange (#DE3412) with Orange Light 1 (#F05F42) and Orange Light 2 (#F2765D), the secondary colours Crimson (#E12353), Raspberry (#CC2F90), Fuchsia (#CC2FAA), Violet (#B932CC) and Indigo (#812CE5), and the greys Dark Gray (#262626), Medium Gray (#666666), Light Gray (#BBBBBB), Light Light Gray (#E6E6E6), Super Light Gray (#F6F6F6) and White (#FFFFFF)."
+}

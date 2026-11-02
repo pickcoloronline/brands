@@ -1,0 +1,13 @@
+{
+  "title": "GOV.UK",
+  "colors": [
+    "1D70B8",
+    "0B0C0C",
+    "FFFFFF",
+    "FFDD00"
+  ],
+  "brandUrl": "https://www.gov.uk/",
+  "sourceUrl": "https://design-system.service.gov.uk/styles/colour/",
+  "category": "Government",
+  "description": "The GOV.UK Design System on design-system.service.gov.uk defines the brand colour (#1D70B8), text colour (#0B0C0C), white (#FFFFFF) and the yellow focus colour (#FFDD00)."
+}

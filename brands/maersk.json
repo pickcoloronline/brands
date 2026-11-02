@@ -1,0 +1,11 @@
+{
+  "title": "Maersk",
+  "colors": [
+    "42B0D5",
+    "00243D"
+  ],
+  "brandUrl": "https://www.maersk.com/",
+  "sourceUrl": "https://designsystem.maersk.com/guidelines/data-visualisation/chart-style-guide/",
+  "category": "Logistics and Transportation",
+  "description": "The official Maersk Design System names Blue-300-Maersk (#42B0D5) as the signature Maersk blue, paired with Blue-900-Dark (#00243D)."
+}
