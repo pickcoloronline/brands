@@ -1,0 +1,14 @@
+{
+  "title": "Tchibo",
+  "colors": [
+    "C0A468",
+    "8C723B",
+    "776132",
+    "F9E9C8",
+    "564624"
+  ],
+  "brandUrl": "https://www.tchibo.de/",
+  "sourceUrl": "https://design-system.tchibo.com/content/components/Color/guidelines",
+  "category": "Retail",
+  "description": "Tchibo publishes its colours in the official Robusta design system: corporate mark gold (#c0a468), brand gold (#8c723b), brand variant (#776132), brand container (#f9e9c8) and on-corporate dark gold (#564624)."
+}

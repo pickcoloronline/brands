@@ -1,0 +1,14 @@
+{
+  "title": "OVHcloud",
+  "colors": [
+    "000E9C",
+    "002DBE",
+    "0050D7",
+    "00185E",
+    "FFFFFF"
+  ],
+  "brandUrl": "https://www.ovhcloud.com/",
+  "sourceUrl": "https://github.com/ovh/design-system/blob/master/packages/themes/src/default/_variables.scss",
+  "category": "Cloud Computing",
+  "description": "OVHcloud's official design system (ODS) defines its brand palette on a blue ramp, led by the deep OVHcloud blue (#000e9c) with supporting blues (#002dbe, #0050d7), dark navy blue (#00185e), and white (#ffffff). Hex values are published as brand palette tokens in OVHcloud's open-source ODS theme."
+}
