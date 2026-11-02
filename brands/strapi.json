@@ -1,0 +1,15 @@
+{
+  "title": "Strapi",
+  "colors": [
+    "4945FF",
+    "1C1C4E",
+    "FFFFFF",
+    "AC56F5",
+    "E4A33F",
+    "2CAA49"
+  ],
+  "brandUrl": "https://strapi.io/",
+  "sourceUrl": "https://handbook.strapi.io/strapi-brand-book-2022/brand-colors",
+  "category": "Software Development",
+  "description": "Strapi publishes its brand colours in the official Strapi Brand Book in its company handbook: Strapi Blue (#4945FF), Dark Blue (#1C1C4E) and White (#FFFFFF), with secondary Purple (#AC56F5), Yellow (#E4A33F) and Green (#2CAA49)."
+}
