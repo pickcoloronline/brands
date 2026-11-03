@@ -1,0 +1,18 @@
+{
+  "title": "SBB",
+  "colors": [
+    "EB0000",
+    "C60018",
+    "A20013",
+    "2D327D",
+    "FFFFFF",
+    "F6F6F6",
+    "767676",
+    "212121",
+    "000000"
+  ],
+  "brandUrl": "https://www.sbb.ch/",
+  "sourceUrl": "https://digital.sbb.ch/en/foundation/colors/base-colors/",
+  "category": "Transportation - Railways",
+  "description": "SBB's official digital design system on digital.sbb.ch defines the base colours Red (#EB0000), Red125 (#C60018), Red150 (#A20013), Blue (#2D327D), White (#FFFFFF), Milk (#F6F6F6), Metal (#767676), Charcoal (#212121) and Black (#000000)."
+}

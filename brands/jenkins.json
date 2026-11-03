@@ -1,0 +1,16 @@
+{
+  "title": "Jenkins",
+  "colors": [
+    "F7F1DA",
+    "355564",
+    "4B758B",
+    "80AFBF",
+    "D24939",
+    "D9D8D6",
+    "757172"
+  ],
+  "brandUrl": "https://www.jenkins.io/",
+  "sourceUrl": "https://get.jenkins.io/art/jenkins_colors.pdf",
+  "category": "Developer Tools",
+  "description": "The Jenkins project publishes its colour palette on get.jenkins.io/art, linked from its press page: #F7F1DA, #355564, #4B758B, #80AFBF, #D24939, #D9D8D6 and #757172."
+}

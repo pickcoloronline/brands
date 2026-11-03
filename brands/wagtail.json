@@ -1,0 +1,14 @@
+{
+  "title": "Wagtail",
+  "colors": [
+    "262626",
+    "2E1F5E",
+    "007D7E",
+    "B3E7E8",
+    "F9CBCE"
+  ],
+  "brandUrl": "https://wagtail.org/",
+  "sourceUrl": "https://github.com/wagtail/brand",
+  "category": "Software Development",
+  "description": "Wagtail publishes its brand colours in the official wagtail/brand repository: Grey (#262626), Indigo (#2E1F5E), Teal (#007D7E), Light Teal (#B3E7E8) and Pink (#F9CBCE)."
+}

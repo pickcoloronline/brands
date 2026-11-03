@@ -1,0 +1,17 @@
+{
+  "title": "GNOME",
+  "colors": [
+    "3584E4",
+    "FF7800",
+    "9141AC",
+    "33D17A",
+    "E01B24",
+    "FFFFFF",
+    "77767B",
+    "241F31"
+  ],
+  "brandUrl": "https://www.gnome.org/",
+  "sourceUrl": "https://brand.gnome.org/",
+  "category": "Open Source Operating Systems",
+  "description": "The GNOME brand guidelines on brand.gnome.org define Blue (#3584E4) as the primary colour, the secondary colours Orange (#FF7800), Purple (#9141AC), Green (#33D17A) and Red (#E01B24), and the neutrals White (#FFFFFF), Grey (#77767B) and Quite Black (#241F31)."
+}

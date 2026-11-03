@@ -1,0 +1,22 @@
+{
+  "title": "elementary OS",
+  "colors": [
+    "C6262E",
+    "F37329",
+    "F9C440",
+    "68B723",
+    "28BCA3",
+    "3689E6",
+    "A56DE2",
+    "DE3E80",
+    "CFA25E",
+    "715344",
+    "ABACAE",
+    "485A6C",
+    "333333"
+  ],
+  "brandUrl": "https://elementary.io/",
+  "sourceUrl": "https://elementary.io/brand",
+  "category": "Open Source Operating Systems",
+  "description": "elementary publishes its brand palette on elementary.io/brand: Strawberry (#C6262E), Orange (#F37329), Banana (#F9C440), Lime (#68B723), Mint (#28BCA3), Blueberry (#3689E6), Grape (#A56DE2), Bubblegum (#DE3E80), Latte (#CFA25E), Cocoa (#715344), Silver (#ABACAE), Slate (#485A6C) and Black (#333333)."
+}
