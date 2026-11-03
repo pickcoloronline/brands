@@ -1,0 +1,15 @@
+{
+  "title": "Tor Project",
+  "colors": [
+    "7D4698",
+    "59316B",
+    "68B030",
+    "F8F9FA",
+    "333A41",
+    "FFFFFF"
+  ],
+  "brandUrl": "https://www.torproject.org/",
+  "sourceUrl": "https://styleguide.torproject.org/visuals/",
+  "category": "Non-profit Organization",
+  "description": "The Tor Project's official style guide names Purple (#7D4698) as the primary colour with Dark Purple (#59316B) as the secondary option, alongside Green (#68B030), Grey (#F8F9FA), Dark Grey (#333A41) and White (#FFFFFF)."
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Nuxt",
+  "colors": [
+    "00DC82",
+    "FFFFFF",
+    "0A0A0A"
+  ],
+  "brandUrl": "https://nuxt.com/",
+  "sourceUrl": "https://nuxt.com/design-kit",
+  "category": "Web Development Framework",
+  "description": "The official Nuxt design kit on nuxt.com builds the palette on the iconic Nuxt Green (#00DC82), paired with the neutrals White (#FFFFFF) and Black (#0A0A0A)."
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Cloud Native Computing Foundation",
+  "colors": [
+    "0086FF",
+    "000000",
+    "93EAFF",
+    "D62293",
+    "E5E5E5",
+    "FFFFFF"
+  ],
+  "brandUrl": "https://www.cncf.io/",
+  "sourceUrl": "https://www.cncf.io/brand-guidelines/",
+  "category": "Non-profit Organization",
+  "description": "The CNCF brand guidelines on cncf.io define the primary colours CNCF Blue (#0086FF) and CNCF Black (#000000), and the secondary colours CNCF Turquoise (#93EAFF), CNCF Pink (#D62293), CNCF Stone (#E5E5E5) and CNCF Cloud White (#FFFFFF)."
+}
