@@ -1,0 +1,18 @@
+{
+  "title": "SteelSeries",
+  "colors": [
+    "FC4C02",
+    "0F0D0E",
+    "007EC8",
+    "004A83",
+    "FFBE00",
+    "754BD3",
+    "462B7C",
+    "41A930",
+    "005F2F"
+  ],
+  "brandUrl": "https://steelseries.com/",
+  "sourceUrl": "https://styleguide.steelseries.io/colors/",
+  "category": "Gaming Peripherals",
+  "description": "SteelSeries' official styleguide defines the primary colours Orange (#FC4C02) and Off-Black (#0F0D0E), and the secondary brand colours Blue (#007EC8), Dark Blue (#004A83), Yellow (#FFBE00), Purple (#754BD3), Dark Purple (#462B7C), Green (#41A930) and Dark Green (#005F2F)."
+}
