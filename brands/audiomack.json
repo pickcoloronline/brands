@@ -1,0 +1,15 @@
+{
+  "title": "Audiomack",
+  "colors": [
+    "FFA200",
+    "0D0D0D",
+    "1A1A1A",
+    "222222",
+    "CCCCCC",
+    "FFFFFF"
+  ],
+  "brandUrl": "https://audiomack.com/",
+  "sourceUrl": "https://styleguide.audiomack.com/",
+  "category": "Music Streaming",
+  "description": "Audiomack's official style guide defines the brand orange #FFA200 alongside the dark neutrals #0D0D0D, #1A1A1A and #222222, the light grey #CCCCCC and white #FFFFFF."
+}
