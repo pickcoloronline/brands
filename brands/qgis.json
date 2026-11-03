@@ -1,0 +1,13 @@
+{
+  "title": "QGIS",
+  "colors": [
+    "589632",
+    "93B023",
+    "F0E64A",
+    "EE7913"
+  ],
+  "brandUrl": "https://qgis.org/",
+  "sourceUrl": "https://www.qgis.org/styleguide/",
+  "category": "Software Development",
+  "description": "The official QGIS style guide defines the project's colour palette as Dark Green (#589632), Light Green (#93B023), Lemon (#F0E64A) and Orange (#EE7913)."
+}
