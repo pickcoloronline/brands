@@ -1,0 +1,15 @@
+{
+  "title": "Gentoo Linux",
+  "colors": [
+    "54487A",
+    "61538D",
+    "6E56AF",
+    "DDDAEC",
+    "73D216",
+    "D9534F"
+  ],
+  "brandUrl": "https://www.gentoo.org/",
+  "sourceUrl": "https://wiki.gentoo.org/wiki/Project:Artwork/Colors",
+  "category": "Open Source Operating Systems",
+  "description": "The Gentoo Artwork project's official colour page defines Gentoo purple (#54487A), purple light (#61538D), purple light2 (#6E56AF), Gentoo grey (#DDDAEC), Gentoo green (#73D216) and Gentoo red (#D9534F)."
+}

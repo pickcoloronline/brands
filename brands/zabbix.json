@@ -1,0 +1,13 @@
+{
+  "title": "Zabbix",
+  "colors": [
+    "D40000",
+    "FFFFFF",
+    "0275B8",
+    "0A466A"
+  ],
+  "brandUrl": "https://www.zabbix.com/",
+  "sourceUrl": "https://assets.zabbix.com/files/Brochures/Zabbix_Brandbook_2025.pdf",
+  "category": "Software Development",
+  "description": "The official Zabbix Brandbook 2025 defines Zabbix Red (#D40000) and white (#FFFFFF) as the core colours, complemented by Zabbix Bright Blue (#0275B8) and Zabbix Dark Blue (#0A466A)."
+}

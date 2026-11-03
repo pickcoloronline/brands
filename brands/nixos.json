@@ -1,0 +1,19 @@
+{
+  "title": "NixOS",
+  "colors": [
+    "000000",
+    "FFFFFF",
+    "4D6FB7",
+    "5FB8F2",
+    "AAA1F6",
+    "CBAA4B",
+    "D991D2",
+    "E99861",
+    "6FC488",
+    "F08D94"
+  ],
+  "brandUrl": "https://nixos.org/",
+  "sourceUrl": "https://brand.nixos.org/documents/nixos-branding-guide.pdf",
+  "category": "Open Source Operating Systems",
+  "description": "The official NixOS branding guide defines Black (#000000), White (#FFFFFF), Afghani Blue (#4D6FB7) and Argentinian Blue (#5FB8F2) alongside the accent colours Italian Violet (#AAA1F6), Indian Gold (#CBAA4B), Chinese Magenta (#D991D2), Persian Orange (#E99861), Zambian Green (#6FC488) and Norwegian Pink (#F08D94)."
+}

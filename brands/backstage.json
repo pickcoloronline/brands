@@ -1,0 +1,15 @@
+{
+  "title": "Backstage",
+  "colors": [
+    "9BF0E1",
+    "36BAA2",
+    "F037A5",
+    "2E77D0",
+    "404040",
+    "121212"
+  ],
+  "brandUrl": "https://backstage.io/",
+  "sourceUrl": "https://backstage.io/logo_assets/Backstage_Identity_Assets_Overview.pdf",
+  "category": "Developer Tools",
+  "description": "Backstage's official identity assets overview defines the colours Teal 01 (#9BF0E1), Teal 02 (#36BAA2), Magenta (#F037A5), Blue (#2E77D0), Gray (#404040) and Black (#121212)."
+}
