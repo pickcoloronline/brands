@@ -1,0 +1,21 @@
+{
+  "title": "Macquarie University",
+  "colors": [
+    "A6192E",
+    "373A36",
+    "EDEBE5",
+    "80225F",
+    "76232F",
+    "D6001C",
+    "C6007E",
+    "009174",
+    "BC4700",
+    "415364",
+    "D6D2C4",
+    "6F1D46"
+  ],
+  "brandUrl": "https://www.mq.edu.au/",
+  "sourceUrl": "https://www.mq.edu.au/__data/assets/git_bridge/0010/862372/dist/portal/colour/index.html",
+  "category": "Higher Education",
+  "description": "Macquarie University's official GEM design system defines the primary colours Red (#A6192E), Charcoal (#373A36), Sand light (#EDEBE5), Purple (#80225F), Deep red (#76232F), Bright red (#D6001C) and Magenta (#C6007E), and the secondary colours Success (#009174), Alert (#BC4700), Information (#415364), Sand (#D6D2C4) and Dark Purple (#6F1D46)."
+}
