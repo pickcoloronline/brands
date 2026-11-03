@@ -1,9 +1,17 @@
 {
-  "title": "Sainsbury&#8217;s",
+  "title": "Sainsbury's",
   "colors": [
-    "EC8A00"
+    "F06C00",
+    "E55000",
+    "FEF5F0",
+    "7F0442",
+    "57002B",
+    "A50052",
+    "FFFFFF",
+    "000000"
   ],
-  "brandUrl": "http://www.j-sainsbury.co.uk/",
-  "category": "Retail",
-  "description": "Sainsbury's is a retail brand identified by orange (#ec8a00)."
+  "brandUrl": "https://www.sainsburys.co.uk/",
+  "sourceUrl": "https://design-systems.sainsburys.co.uk/foundations/colour/sainsburys-colours/",
+  "category": "Retail and Grocery",
+  "description": "Sainsbury's official design system defines the primary brand palette of oranges Base (#F06C00), Dark (#E55000) and Light (#FEF5F0), the secondary plum palette Base (#7F0442), Dark (#57002B) and Light (#A50052), and the core colours White (#FFFFFF) and Black (#000000)."
 }

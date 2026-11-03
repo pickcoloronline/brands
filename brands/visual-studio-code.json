@@ -1,0 +1,15 @@
+{
+  "title": "Visual Studio Code",
+  "colors": [
+    "0098FF",
+    "007ACC",
+    "0065A9",
+    "F3F3F3",
+    "444444",
+    "252526"
+  ],
+  "brandUrl": "https://code.visualstudio.com/",
+  "sourceUrl": "https://code.visualstudio.com/brand",
+  "category": "Developer Tools",
+  "description": "The official Visual Studio Code brand guidelines define the colour palette of the blues #0098FF, #007ACC and #0065A9, the light grey #F3F3F3, the grey #444444 and the charcoal #252526."
+}
